@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 5,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 10,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Dietil cetona",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "3-Pantanona",
+    "usos"                 : "",
+    "ficha de seguridad"   : "Reacciona violentamente con oxidantes. Esto genera peligro de incendio y explosión. Ataca muchos plásticos. ",
+    "dato interesante"     : ""
+}

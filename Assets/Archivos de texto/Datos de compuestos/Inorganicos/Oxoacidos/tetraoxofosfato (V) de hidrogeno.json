@@ -1,0 +1,28 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Hidrógeno",
+            "simbolo"  : "H",
+            "cantidad" : 3,
+            "carga"    :  1
+        },
+        {
+            "etiqueta": "No metal",
+            "simbolo"  : "P",
+            "cantidad" : 1,
+            "carga"    : 3
+        },
+        {
+            "etiqueta": "Oxígeno",
+            "simbolo"  : "O",
+            "cantidad" : 4,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura clasica": "Ácido fosfórico",
+  "nomenclatura stock": "ácido tetraoxofosfórico (V)",
+  "nomenclatura IUPAC": "tetraoxofosfato (V) de hidrógeno",
+  "usos": "Pegamento, catalizador, regulador de pH y fuerte fertilizante.",
+  "ficha de seguridad": "Es un compuesto químico de color blanco o incoloro, líquido viscoso a más de 42°C.",
+  "dato interesante": "Estudios epidemiológicos han encontrado la relación entre el acido fosfórico y la baja densidad de los huesos, incluyendo una discusión publicada en el Jornal de Nutrición Clínica (USA)."
+}

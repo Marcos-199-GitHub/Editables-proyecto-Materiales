@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 8,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Etil metil cetona",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Butanona",
+    "usos"                 : "Es utilizada como solvente en la elaboración de revestimientos de superficies, fabricación de polvo sin humo, elaboración de resinas de colores",
+    "ficha de seguridad"   : "La exposición repetida puede provocar sequedad o formación de grietas en la piel",
+    "dato interesante"     : ""
+}

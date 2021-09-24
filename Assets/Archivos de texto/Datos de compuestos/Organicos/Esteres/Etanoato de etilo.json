@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 8,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 2,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Acetato de etilo",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Etanoato de etilo",
+    "usos"                 : "Solventes, cosméticos, tintas de impresión, industria alimentaria, industria fotográfica.",
+    "ficha de seguridad"   : "Dolor de garganta, tos, dolor de cabeza, somnolencia, enrojecimiento, piel seca.",
+    "dato interesante"     : ""
+}

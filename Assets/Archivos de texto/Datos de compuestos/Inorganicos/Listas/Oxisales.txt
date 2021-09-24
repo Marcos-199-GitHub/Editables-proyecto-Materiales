@@ -1,0 +1,4 @@
+Tetraoxomanganato (VI) de dipotasio.json
+Tetraoxosulfato (IV) de sodio.json
+Trioxocarbonato (IV) de sodio.json
+Tris[tetraoxosulfato] de dihierro.json

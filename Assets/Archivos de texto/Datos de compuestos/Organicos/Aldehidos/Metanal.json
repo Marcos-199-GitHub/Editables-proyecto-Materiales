@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 1,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 2,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Formaldehído",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Metanal",
+    "usos"                 : "Desinfectante, industria química, fabricación de textiles, elaboración de medicamentos, fabricación de productos de higiene personal.",
+    "ficha de seguridad"   : "Causa vomito y diarrea, pudiendose llegar a un colapso si las concentraciones son altas, irritacion y ardor en los ojos, puede causar ceguera",
+    "dato interesante"     : ""
+}

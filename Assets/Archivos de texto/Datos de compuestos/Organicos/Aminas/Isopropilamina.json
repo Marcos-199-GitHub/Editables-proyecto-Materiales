@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 3,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 9,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Nitrogeno",
+            "simbolo"  : "N",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "--------",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Isopropilamina",
+    "usos"                 : "Medicamentos, síntesis orgánica, productos químicos, industria agroquímica, fabricación de plásticos.",
+    "ficha de seguridad"   : "Dolor de garganta. Tos. Sensación de quemazón. Jadeo. Dificultad respiratoria.",
+    "dato interesante"     : ""
+}

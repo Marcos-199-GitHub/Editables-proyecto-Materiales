@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Na",
+            "cantidad" : 2,
+            "carga"    :  1
+        },
+        {
+            "etiqueta": "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura_clasica": "Óxido sódico",
+  "nomenclatura_stock": "Óxido de sodio (I)",
+  "nomenclatura_IUPAC": "Monóxido de disodio",
+  "usos": "Se ocupa en la elaboración de vidrios y realización de objetos o elementos son cerámica",
+  "ficha_de_seguridad": "Tiene una apariencia de color blanco y su punto de fusión es de 1132 grados C. Provoca graves quemaduras en la piel y lesiones oculares. Reacciona violentamente con ácidos y es corrosiva.",
+  "dato_interesante": ""
+}

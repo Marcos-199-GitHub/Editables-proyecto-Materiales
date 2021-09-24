@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 8,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Etil vinil eter",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Etoxietileno",
+    "usos"                 : "Productos farmacéuticos, aceites lubricantes, aditivos, aromas y perfumería, productos químicos, plásticos",
+    "ficha de seguridad"   : "",
+    "dato interesante"     : ""
+}

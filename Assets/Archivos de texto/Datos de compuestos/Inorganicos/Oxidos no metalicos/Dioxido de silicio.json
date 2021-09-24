@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Si",
+            "cantidad" : 1,
+            "carga"    :  4
+        },
+        {
+            "etiqueta": "Anion",
+            "simbolo"  : "O",
+            "cantidad" : 2,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura_clasica": "Anhídrido silícico",
+  "nomenclatura_stock": "Anhídrido de silicio (II)",
+  "nomenclatura_IUPAC": "Dióxido de silicio",
+  "usos": "Manufactura de aislantes, vidrio, cerámica, moldes para fundición. Relleno de pinturas, materiales de pulido de metales y madera, etc.",
+  "ficha_de_seguridad": "Las particulas de silicio puedes irritar las vías respiratorias y los ojos. A largo plazo daña los pulmones.",
+  "dato_interesante": ""
+}

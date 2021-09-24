@@ -1,0 +1,22 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 2,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 4,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Eteno",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Etileno",
+    "usos"                 : "Fabricación de estireno, productos farmacéuticos, fabricación de polímeros, industria química orgánica.",
+    "ficha de seguridad"   : "El efecto anestésico puede provocar somnolencia, dolor de cabeza, mareo, pérdida de la coordinacion, náusea y pérdida de la consciencia.",
+    "dato interesante"     : ""
+}

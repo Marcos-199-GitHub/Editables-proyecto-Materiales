@@ -1,0 +1,23 @@
+{
+    "formula_quimica"        : [
+        {
+            "etiqueta" : "Hidrógeno",
+            "simbolo"  : "H",
+            "cantidad" : 1,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "No metal",
+            "simbolo"  : "Br",
+            "cantidad" : 1,
+            "carga"    : -1
+        }
+    ],
+    "nomenclatura clasica"   : "ácido bromhídrico",
+    "nomenclatura stock"     : "bromuro de hidrógeno",
+    "nomenclatura IUPAC"     : "bromuro de hidrógeno",
+    "usos"                   : "Industria química y farmacéutica y disolvente metálico.",
+    "ficha de seguridad"     : "Protección personal: traje hermético de protección química, incluyendo equipo autónomo de respiración. Causa irritación, quemaduras profundas graves en la piel.",
+    "url_ficha_de_seguridad" : "https://www.linde.mx/-/media/corporate/praxair-mexico/documents/safety-data-sheets/bromuro-de-hidrogeno-hds-p4605f-2004.pdf?rev=4910b84a65a24a958c1f8edcf0b7660f?rev=4910b84a65a24a958c1f8edcf0b7660f",
+    "dato interesante"       : ""
+}

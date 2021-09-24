@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Ca",
+            "cantidad" : 1,
+            "carga"    :  2
+        },
+        {
+            "etiqueta": "Anion",
+            "simbolo"  : "H",
+            "cantidad" : 2,
+            "carga"    : -1
+        }
+    ],
+  "nomenclatura_clasica": "Hidruro cálcico ",
+  "nomenclatura_stock": "Hidruro de calcio (II)",
+  "nomenclatura_IUPAC": "Dihidruro de calcio",
+  "usos": "Agente desecante y fuente de hidrógeno molecular. ",
+  "ficha_de_seguridad": "Al contacto con el agua emite gases inflamables.",
+  "dato_interesante": "Con este compuesto se inflan los globos meteorológicos."
+}

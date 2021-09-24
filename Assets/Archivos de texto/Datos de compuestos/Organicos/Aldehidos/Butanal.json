@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 8,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Butiraldehído",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Butanal",
+    "usos"                 : "Medicamentos, aditivos de plástico, disolvente industrial, condimento alimentario.",
+    "ficha de seguridad"   : "Líquido y vapores muy inflamables, puede ser nocivo en caso de ingestión o en contacto con la piel, provoca irritación ocular grave",
+    "dato interesante"     : ""
+}

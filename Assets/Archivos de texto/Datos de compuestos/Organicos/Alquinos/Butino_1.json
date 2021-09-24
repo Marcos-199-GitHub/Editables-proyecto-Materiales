@@ -1,0 +1,22 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 6,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Etilacetileno",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "1-Butino",
+    "usos"                 : "Medicina, elaboración de plásticos, industria de elaboración del caucho, elaboración de compuestos orgánicos sintéticos.",
+    "ficha de seguridad"   : "Los síntomas de asfixia que presentan los afectados por la inhalación pueden incluir la pérdida de consciencia o movilidad",
+    "dato interesante"     : ""
+}

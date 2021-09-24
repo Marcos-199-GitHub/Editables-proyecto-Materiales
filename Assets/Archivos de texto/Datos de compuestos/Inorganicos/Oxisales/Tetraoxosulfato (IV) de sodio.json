@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Na",
+            "cantidad" : 2,
+            "carga"    :  1
+        },
+        {
+            "etiqueta": "Ión",
+            "simbolo"  : "SO",
+            "cantidad" : 4,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura clasica": "Sulfato sódico",
+  "nomenclatura stock": "Sulfato de sodio (II)",
+  "nomenclatura IUPAC": "Tetraoxosulfato (IV) de sodio",
+  "usos": "Industria del papel, elaboración de vidrios, manufactura de productos químicos y fabricación de detergentes en polvo.",
+  "ficha de seguridad": "sustancia química de forma cristalina que presenta buena solubilidad en agua. Protección personal: respirador con filtro para partículas adaptado a la concentración de la sustancia en aire.",
+  "dato interesante": ""
+}

@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 3,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 6,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 2,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Acetato de metilo",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Etanoato de metilo",
+    "usos"                 : "Plásticos, cueros artificiales, solvente de la nitrocelulosa, solvente de la acetil celulosa.",
+    "ficha de seguridad"   : "Dolor abdominal, náuseas, vómitos, debilidad,	enrojecimiento, piel seca",
+    "dato interesante"     : ""
+}

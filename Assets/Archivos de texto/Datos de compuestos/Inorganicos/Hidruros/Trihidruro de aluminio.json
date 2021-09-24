@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Al",
+            "cantidad" : 1,
+            "carga"    : 3
+        },
+        {
+            "etiqueta": "Anion",
+            "simbolo"  : "H",
+            "cantidad" : 3,
+            "carga"    : -1
+        }
+    ],
+  "nomenclatura_clasica": "Hidruro alimínico ",
+  "nomenclatura_stock": "Hidruro de aluminio (III)",
+  "nomenclatura_IUPAC": "Trihidruro de aluminio",
+  "usos": "Sirve para almacenar el hidrógeno en vehículos y en la industria de la pirotecnia",
+  "ficha_de_seguridad": "Al contacto con la piel irrita y quema, en caso de aspirarse irrita la nariz, garganta y pulmones.",
+  "dato_interesante": ""
+}

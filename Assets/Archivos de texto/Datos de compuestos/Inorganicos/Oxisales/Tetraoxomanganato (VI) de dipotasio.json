@@ -1,0 +1,23 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "K",
+            "cantidad" : 1,
+            "carga"    :  2
+        },
+        {
+            "etiqueta": "Ión",
+            "simbolo"  : "MnO",
+            "cantidad" : 4,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura clasica": "Permanganato de potasio ",
+  "nomenclatura stock": "Gamanato de potacio",
+  "nomenclatura IUPAC": "Tetraoxomanganato (VI) de dipotasio",
+  "usos": "Tratamiento de aguas residuales; en medicina se ocupa como desinfectante bucal.
+    Producto químico de laboratorio Uso analítico y de laboratorio",
+  "ficha de seguridad": "Corrosión cutánea produce una lesión irreversible en la piel, esto es, una necrosis visible a través de la epidermis que alcanza la dermis",
+  "dato interesante": "Este compuesto se utiliza en países productores de cocaína para la purificación de esta."
+}

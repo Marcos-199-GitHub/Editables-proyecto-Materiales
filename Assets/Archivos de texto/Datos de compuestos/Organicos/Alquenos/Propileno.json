@@ -1,0 +1,22 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 3,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 6,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Propeno",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Propileno",
+    "usos"                 : "Industria petroquímica, fabricación de plásticos y resinas, floración y madurez en frutas, industria química orgánica.",
+    "ficha de seguridad"   : "Puede ocasionar daños hepaticos, mareo, somnolencia, efectos anestesicos, quemaduras por congelamiento",
+    "dato interesante"     : ""
+}

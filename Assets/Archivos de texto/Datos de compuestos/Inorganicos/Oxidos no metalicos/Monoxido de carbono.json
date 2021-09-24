@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "C",
+            "cantidad" : 1,
+            "carga"    :  2
+        },
+        {
+            "etiqueta": "Anion",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura_clasica": "Anhídrido carbonoso",
+  "nomenclatura_stock": "Óxido de carbono (II)",
+  "nomenclatura_IUPAC": "monóxido de carbono",
+  "usos": "Es altamente tóxico y respirarlo puede causar la muerte al sustituir al oxígeno. ",
+  "ficha_de_seguridad": "Es altamente tóxico y respirarlo puede causar la muerte al sustituir al oxígeno. ",
+  "dato_interesante": "Es la causa de envenenamiento más común en USA, ya que este gas es producido por actividades en la cocina y por calefacciones."
+}

@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 10,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Alcohol sec-butílico",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "2-Butanol",
+    "usos"                 : "Industria de pinturas, industria de colorantes, fabricación de explosivos, fabricación de cueros artificiales.",
+    "ficha de seguridad"   : "Provoca irritación cutánea, puede irritar las vías respiratorias, puede provocar somnolencia o vértigo",
+    "dato interesante"     : ""
+}

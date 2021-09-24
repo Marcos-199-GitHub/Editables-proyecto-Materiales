@@ -1,0 +1,22 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 2,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 6,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura_clasica" : "--------",
+    "nomenclatura_stock"   : "--------",
+    "nomenclatura_IUPAC"   : "Etano",
+    "usos"                 : "Elaboración de gasolina, combustible automotriz, solvente para pinturas.",
+    "ficha_de_seguridad"   : "Reacciona violentamente con los oxidantes fuertes como: Pentafloruro de bromo, Trifloruro de cloro, Cloro, Flúor, Heptafloruro de yodo, Oxígeno líquido. Es incompatible con los halógenos.",
+    "dato_interesante"     : ""
+}

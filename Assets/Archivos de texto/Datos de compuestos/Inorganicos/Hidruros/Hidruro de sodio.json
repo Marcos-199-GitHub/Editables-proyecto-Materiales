@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Na",
+            "cantidad" : 1,
+            "carga"    :  1
+        },
+        {
+            "etiqueta": "Anion",
+            "simbolo"  : "H",
+            "cantidad" : 1,
+            "carga"    : -1
+        }
+    ],
+  "nomenclatura_clasica": "Hidruro sódico",
+  "nomenclatura_stock": "Hidruro de sodio (I)",
+  "nomenclatura_IUPAC": "Hidruro de sodio",
+  "usos": "Usado en la condensación en reacciones con grupos carbonilo y como agente desecante con solventes inorgánicos. Se utiliza mucho a altas temperaturas como agente reductor.",
+  "ficha_de_seguridad": "Es incoloro en estado puro, insoluble en solventes orgánicos; es inflamable al contacto con el aire y con el agua",
+  "dato_interesante": ""
+}

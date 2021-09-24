@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 11,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Nitrogeno",
+            "simbolo"  : "N",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "--------",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Butilamina",
+    "usos"                 : "Como aceleradores del caucho, estos compuestos modifican la velocidad de vulcanización del caucho, Una variedad de pesticidas se derivan de esta amina, incluidos terbacil , terbutryn y terbumeton",
+    "ficha de seguridad"   : "Dolor de garganta. Tos. Sensación de quemazón. Dolor de cabeza. Sonrojamiento de la cara. Vómitos. Vértigo. Jadeo. Dificultad respiratoria. Síntomas no inmediatos. Ver Notas. ",
+    "dato interesante"     : ""
+}

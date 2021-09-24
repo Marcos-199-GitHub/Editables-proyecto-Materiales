@@ -1,0 +1,22 @@
+{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Al",
+            "cantidad" : 1,
+            "carga"    : 3
+        },
+        {
+            "etiqueta" : "Anión",
+            "simbolo"  : "OH",
+            "cantidad" : 3,
+            "carga"    : -1
+        }
+    ],
+    "nomenclatura_clasica" : "Hidróxido alumínico",
+    "nomenclatura_stock"   : "Hidróxido aluminio (III)",
+    "nomenclatura_IUPAC"   : "Trihidróxido de aluminio",
+    "usos"                 : "Materia prima, soportes catalíticos, compuestos de intercalación, retardante de fuego y medicina.",
+    "ficha_de_seguridad"   : "Estreñimiento, inhibición del fosfato en los intestinos y desórdenes neurológicos.",
+    "dato_interesante"     : "En las décadas de los 60 y 70 se especuló con que el aluminio tenía relación con varias enfermedades neurológicas, incluyendo el alzhéimer"
+}

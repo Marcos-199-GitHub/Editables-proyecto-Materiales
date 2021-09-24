@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Fe",
+            "cantidad" : 1,
+            "carga"    :  2
+        },
+        {
+            "etiqueta": "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura_clasica": "Óxido hipoferroso",
+  "nomenclatura_stock": "Óxido de hierro (II)",
+  "nomenclatura_IUPAC": "Monóxido de hierro",
+  "usos": "Se utiliza en productos cosméticos.",
+  "ficha_de_seguridad": "Es un compuesto en forma de polvo de color negro que no conduce la electricidad.",
+  "dato_interesante": "Se utiliza para tatuar, ya que funciona como un pigmento"
+}

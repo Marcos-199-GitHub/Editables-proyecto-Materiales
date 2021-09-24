@@ -1,0 +1,22 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 3,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 4,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Metilacetileno",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Propino",
+    "usos"                 : "Soldaduras",
+    "ficha de seguridad"   : "Al producirse pérdidas en zonas confinadas, esta sustancia puede originar asfixia por disminución del contenido de oxígeno en el aire.",
+    "dato interesante"     : ""
+}

@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "C",
+            "cantidad" : 1,
+            "carga"    :  4
+        },
+        {
+            "etiqueta": "Anion",
+            "simbolo"  : "O",
+            "cantidad" : 2,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura_clasica": "Anhídrido carbónico",
+  "nomenclatura_stock": "Óxido de carbono (IV)",
+  "nomenclatura_IUPAC": "Dióxido de carbono",
+  "usos": "Producción de productos químicos y se ocupa en la recuperación mejorada del petróleo. ",
+  "ficha_de_seguridad": "En concentraciones <= a 15% de CO2 provoca cambios fisiológicos, y si la concentración aumenta puede causar la muerte.",
+  "dato_interesante": "8 millones de personas murieron en 2018 a causa de intoxica miento de este gas. Además, es uno de los principales causantes del efecto invernadero."
+}

@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 5,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 10,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 2,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Acetato de isopropilo",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Etanoato de isopropilo",
+    "usos"                 : "Solvente, perfumes, saborizante, tintes de impresión, lacas de nitrocelulosa.",
+    "ficha de seguridad"   : "Tos, dolor de garganta, dolor de cabeza, somnolencia",
+    "dato interesante"     : ""
+}

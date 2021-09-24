@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 10,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Dietileter",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Etoxietano",
+    "usos"                 : "Disolvente, anestésico, reacciones orgánicas, extracción de principios activos de tejidos de plantas y animales.",
+    "ficha de seguridad"   : "Tos, dolor de garganta, somnolencia, vómitos, dolor de cabeza, dificultad respiratoria, pérdida del conocimiento.",
+    "dato interesante"     : ""
+}

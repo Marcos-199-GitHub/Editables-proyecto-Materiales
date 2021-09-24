@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 3,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 8,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Alcohol propino",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "1-Propanol",
+    "usos"                 : "Medicina, anticongelantes, síntesis de glicerina, productos cosméticos, fabricación de acetonas.",
+    "ficha de seguridad"   : "Provoca lesiones oculares graves, puede provocar somnolencia o vértigo",
+    "dato interesante"     : ""
+}

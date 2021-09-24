@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 3,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 6,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Propanaldehído",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Propanal",
+    "usos"                 : "Desinfectante, productos farmacéuticos, plásticos y plastificantes, productos para celulosa y caucho.",
+    "ficha de seguridad"   : "Causa dolor de cabeza, nausea, vomito, mareo e irritante al tracto respiratorio",
+    "dato interesante"     : ""
+}
