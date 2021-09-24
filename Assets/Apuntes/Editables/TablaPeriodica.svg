@@ -3,15 +3,12 @@
 
 <svg
    width="3120"
-   height="1800"
-   viewBox="0 0 825.49998 476.25001"
+   height="2000"
+   viewBox="0 0 825.49998 529.16667"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="TablaPeriodica.svg"
-   inkscape:export-filename="E:\Documentos\GitHub\Compartido\Proyecto Estructura de los Materiales\Assets\2_Sprites\TablaPeriodica.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,19 +24,20 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.1897163"
-     inkscape:cx="1446.8973"
-     inkscape:cy="1035.7571"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:zoom="0.7588652"
+     inkscape:cx="2306.7338"
+     inkscape:cy="1131.2945"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     width="3120px">
+     width="3120px"
+     height="1900px">
     <sodipodi:guide
        position="570.77912,414.74686"
        orientation="0,-1"
@@ -73,18 +71,6 @@
        orientation="1,0"
        id="guide115793" />
     <sodipodi:guide
-       position="211.64385,155.09649"
-       orientation="0,-1"
-       id="guide121540" />
-    <sodipodi:guide
-       position="252.36321,113.79304"
-       orientation="0,-1"
-       id="guide121542" />
-    <sodipodi:guide
-       position="449.78398,87.903722"
-       orientation="0,-1"
-       id="guide121544" />
-    <sodipodi:guide
        position="208.56018,162.52695"
        orientation="1,0"
        id="guide18423" />
@@ -95,6 +81,18 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1823">
+      <stop
+         style="stop-color:#54e346;stop-opacity:1;"
+         offset="0"
+         id="stop1819" />
+      <stop
+         style="stop-color:#54e346;stop-opacity:0;"
+         offset="1"
+         id="stop1821" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient16910">
@@ -108,18 +106,6 @@
          id="stop16908" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6600">
-      <stop
-         style="stop-color:#00c3ff;stop-opacity:1;"
-         offset="0"
-         id="stop6596" />
-      <stop
-         style="stop-color:#00c3ff;stop-opacity:0;"
-         offset="1"
-         id="stop6598" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient3494"
        inkscape:swatch="solid">
       <stop
@@ -127,26 +113,6 @@
          offset="0"
          id="stop3492" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6600"
-       id="linearGradient6602"
-       x1="404.80215"
-       y1="40.297997"
-       x2="594.55994"
-       y2="40.297997"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2168971,0,0,1,-98.197629,0)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6600"
-       id="linearGradient6686"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3253706,0,0,1,-986.36579,-80.596)"
-       x1="404.80215"
-       y1="40.297997"
-       x2="594.55994"
-       y2="40.297997" />
     <pattern
        id="EMFhbasepattern"
        patternUnits="userSpaceOnUse"
@@ -158,13 +124,38 @@
        inkscape:collect="always"
        xlink:href="#linearGradient16910"
        id="radialGradient16912"
-       cx="208.3583"
+       cx="208.35831"
        cy="167.46216"
-       fx="208.3583"
+       fx="208.35831"
        fy="167.46216"
        r="188.50572"
-       gradientTransform="matrix(1,0,0,0.46262823,0,89.989436)"
+       gradientTransform="matrix(1,0,0,0.48179806,0,90.392837)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1823"
+       id="linearGradient1825"
+       x1="-449.85294"
+       y1="-40.297997"
+       x2="-198.35356"
+       y2="-40.297997"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1823"
+       id="linearGradient1827"
+       x1="394.40497"
+       y1="40.297997"
+       x2="625.32068"
+       y2="40.297997"
+       gradientUnits="userSpaceOnUse" />
+    <pattern
+       id="EMFhbasepattern-0"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
   </defs>
   <g
      inkscape:label="Capa 1"
@@ -177,12 +168,13 @@
        inkscape:transform-center-x="-0.95727759"
        inkscape:transform-center-y="-4.3367536" />
     <rect
-       style="fill:#55ff99;fill-opacity:1;fill-rule:evenodd;stroke:#61bc38;stroke-width:0.221115;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#bbe1fa;fill-opacity:1;fill-rule:evenodd;stroke:#61bc38;stroke-width:0.233077;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect35"
-       width="825.27887"
-       height="476.0289"
-       x="0.11055765"
-       y="0.11055765" />
+       width="825.26691"
+       height="528.93359"
+       x="0.11653853"
+       y="0.11653853"
+       sodipodi:insensitive="true" />
     <rect
        style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.717255;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect122086"
@@ -192,26 +184,23 @@
        y="80.254089"
        ry="22.698303"
        rx="25.057245" />
-    <g
-       id="g6694">
-      <rect
-         style="fill:url(#linearGradient6602);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.764921;stroke-linecap:round;paint-order:stroke markers fill"
-         id="rect1425"
-         width="230.91568"
-         height="42.410282"
-         x="394.40497"
-         y="19.092857"
-         ry="20.237766" />
-      <rect
-         style="fill:url(#linearGradient6686);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.798285;stroke-linecap:round;paint-order:stroke markers fill"
-         id="rect6684"
-         width="251.49937"
-         height="42.410282"
-         x="-449.85294"
-         y="-61.503139"
-         ry="20.237766"
-         transform="scale(-1)" />
-    </g>
+    <rect
+       style="fill:url(#linearGradient1827);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.764921;stroke-linecap:round;paint-order:stroke markers fill"
+       id="rect1425"
+       width="230.91568"
+       height="42.410282"
+       x="394.40497"
+       y="19.092857"
+       ry="20.237766" />
+    <rect
+       style="fill:url(#linearGradient1825);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.798285;stroke-linecap:round;paint-order:stroke markers fill"
+       id="rect6684"
+       width="251.49937"
+       height="42.410282"
+       x="-449.85294"
+       y="-61.503139"
+       ry="20.237766"
+       transform="scale(-1)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:29.6365px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.740914"
@@ -225,136 +214,136 @@
          x="351.6474"
          y="44.810467">Tabla periódica</tspan></text>
     <rect
-       style="fill:url(#radialGradient16912);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.09531;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:url(#radialGradient16912);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.11777;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect6790"
        width="377.01144"
-       height="174.41614"
+       height="181.64339"
        x="19.852575"
        y="80.254089" />
     <rect
-       style="fill:#f55c47;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.518741;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#f55c47;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529379;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7000"
        width="18.210379"
-       height="105.81318"
+       height="110.19774"
        x="49.21006"
        y="80.25415" />
     <rect
-       style="fill:#92e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.480263;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#92e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.490112;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7148"
        width="18.210379"
-       height="90.697929"
+       height="94.456161"
        x="67.420441"
-       y="95.369484" />
+       y="95.995819" />
     <rect
-       style="fill:#ffd371;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.24;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#ffd371;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.26543;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7168"
        width="182.10378"
-       height="60.461582"
+       height="62.966915"
        x="85.630814"
-       y="125.42654" />
+       y="127.29834" />
     <rect
-       style="fill:#b980f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.518741;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#b980f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529379;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7188"
        width="18.210379"
-       height="105.81318"
+       height="110.19774"
        x="358.84738"
        y="80.25415" />
     <rect
-       style="fill:#aef4a4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.480263;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#aef4a4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.490112;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7190"
        width="18.210379"
-       height="90.697929"
+       height="94.456161"
        x="340.63699"
-       y="95.369484" />
+       y="95.995819" />
     <rect
-       style="fill:#5089c6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.960524;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#5089c6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.980223;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7312"
        width="72.841515"
-       height="90.697929"
+       height="94.456161"
        x="267.79596"
-       y="95.369484" />
+       y="95.995819" />
     <rect
-       style="fill:#5089c6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.670362;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#5089c6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.68411;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7494"
-       height="15.003299"
+       height="15.624988"
        x="338.99844"
-       y="171.06403"
+       y="174.8269"
        width="38.077942" />
     <rect
-       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.658209;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.671708;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7390"
        width="18.210379"
-       height="15.122345"
+       height="15.748966"
        x="267.79596"
-       y="95.369484" />
+       y="95.995819" />
     <rect
-       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.658209;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.671708;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7416"
        width="18.210379"
-       height="30.24469"
+       height="31.497932"
        x="304.21655"
-       y="125.60027" />
+       y="127.47927" />
     <rect
-       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.658209;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.671708;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7418"
        width="18.210379"
-       height="30.24469"
+       height="31.497932"
        x="322.42685"
-       y="140.71567" />
+       y="143.22101" />
     <rect
-       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.658209;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.671708;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7420"
        width="18.210379"
-       height="30.24469"
+       height="31.497932"
        x="286.00626"
-       y="110.48488" />
+       y="111.73755" />
     <rect
-       style="fill:#fbc7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.658209;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#fbc7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.671708;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7651"
        width="18.210379"
-       height="30.24469"
+       height="31.497932"
        x="85.691963"
-       y="155.86046" />
+       y="158.99335" />
     <rect
-       style="fill:#fbc7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.54924;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#fbc7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.60152;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7659"
        width="273.15567"
-       height="30.24469"
+       height="31.497932"
        x="85.691963"
-       y="191.1153" />
+       y="195.70903" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.658209;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.671708;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7414"
        width="18.210379"
-       height="30.24469"
+       height="31.497932"
        x="322.42688"
-       y="110.48488" />
+       y="111.73755" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.686771;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.700855;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7444"
        width="19.825115"
-       height="30.24469"
+       height="31.497932"
        x="304.21655"
-       y="95.369484" />
+       y="95.995819" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.740596;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.755784;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7468"
        width="23.054428"
-       height="15.122345"
+       height="15.748966"
        x="286.00632"
-       y="95.369484" />
+       y="95.995819" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.678944;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.692868;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7492"
        width="18.210379"
-       height="16.090136"
+       height="16.756859"
        x="322.42694"
-       y="95.369484" />
+       y="95.995819" />
     <rect
-       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.658209;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.671708;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7701"
        width="18.210379"
-       height="15.122345"
+       height="15.748966"
        x="49.21043"
        y="80.254089" />
     <rect
@@ -407,10 +396,10 @@
          style="stroke-width:0.168163"
          x="509.38364"
          y="131.64734"
-         id="tspan16038">algunos casos añadió otra letra del mismo nombre. </tspan></text>
+         id="tspan16038">algunos casos añadió otra letra del mismo nombre. (Recio, 2012, pág 81)</tspan></text>
     <g
        id="g212"
-       transform="translate(4.8818399e-5,-41.798658)">
+       transform="translate(4.8818399e-5,-41.269491)">
       <rect
          style="fill:#ff9955;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.846667;stroke-linecap:round;paint-order:stroke markers fill"
          id="rect109849"
@@ -461,7 +450,7 @@
            style="stroke-width:0.179793"
            x="513.54449"
            y="240.40358"
-           id="tspan29357">inferior izquierda del símbolo del elemento.</tspan></text>
+           id="tspan29357">inferior izquierda del símbolo del elemento. (Recio, 2012, pág 81)</tspan></text>
     </g>
     <g
        id="g222"
@@ -511,7 +500,7 @@
            style="stroke-width:0.190076"
            x="547.77118"
            y="292.41086"
-           id="tspan47235">izquierda o derecha del símbolo del elemento.</tspan></text>
+           id="tspan47235">izquierda o derecha del símbolo del elemento. (Recio, 2012, pág 82)</tspan></text>
     </g>
     <rect
        style="fill:#bcd35f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.846667;stroke-linecap:round;paint-order:stroke markers fill"
@@ -563,10 +552,10 @@
          style="stroke-width:0.175821"
          x="463.69202"
          y="368.03885"
-         id="tspan7707">conceptos distintos. </tspan></text>
+         id="tspan7707">conceptos distintos. (Recio, 2012, pág 82) </tspan></text>
     <g
        id="g6061"
-       transform="translate(0.12941496,-50.246958)">
+       transform="matrix(1,0,0,1.0414368,0.12941496,-52.479502)">
       <rect
          style="fill:#55ddff;fill-opacity:0.8;fill-rule:evenodd;stroke:none;stroke-width:0.846667;stroke-linecap:round;paint-order:stroke markers fill"
          id="rect121568"
@@ -594,283 +583,283 @@
            id="tspan64071" /></text>
     </g>
     <rect
-       style="fill:#f55c47;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.815559;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#f55c47;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.832285;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect121694"
        width="188.70761"
-       height="37.505585"
+       height="39.059696"
        x="19.852575"
-       y="313.72305"
-       ry="8.0176992" />
+       y="341.91818"
+       ry="8.3499269" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.81889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.245473"
-       x="85.097549"
-       y="275.00256"
+       style="font-style:normal;font-weight:normal;font-size:10.0203px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.250507"
+       x="86.842743"
+       y="293.21442"
        id="text68419"
-       transform="scale(0.84434336,1.1843523)"><tspan
+       transform="scale(0.82737547,1.2086411)"><tspan
          sodipodi:role="line"
          id="tspan68417"
-         style="stroke-width:0.245473"
-         x="85.097549"
-         y="275.00256">Metales alcalinos</tspan></text>
+         style="stroke-width:0.250507"
+         x="86.842743"
+         y="293.21442">Metales alcalinos</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.02894px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125724"
-       x="26.411449"
-       y="304.70831"
+       style="font-style:normal;font-weight:normal;font-size:5.13207px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.128302"
+       x="26.953098"
+       y="324.38547"
        id="text70851"
-       transform="scale(0.90183146,1.1088546)"><tspan
+       transform="scale(0.88370831,1.1315951)"><tspan
          sodipodi:role="line"
          id="tspan70849"
-         style="stroke-width:0.125724"
-         x="26.411449"
-         y="304.70831">Los metales alcalinos son plateados, suaves y extremadamente reactivos.</tspan><tspan
+         style="stroke-width:0.128302"
+         x="26.953098"
+         y="324.38547">Los metales alcalinos son plateados, suaves y extremadamente reactivos.</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.125724"
-         x="26.411449"
-         y="310.99448"
+         style="stroke-width:0.128302"
+         x="26.953098"
+         y="330.80057"
          id="tspan70853">rieles; reaccionan de manera similar (reaccionan con el agua).</tspan></text>
     <rect
-       style="fill:#92e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.796263;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#92e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.812593;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect121832"
        width="179.88387"
-       height="37.505585"
+       height="39.059696"
        x="216.98015"
-       y="314.60165"
-       ry="8.0176992" />
+       y="342.83319"
+       ry="8.3499269" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.0733px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251833"
-       x="277.64746"
-       y="281.57462"
+       style="font-style:normal;font-weight:normal;font-size:10.2799px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256998"
+       x="283.34149"
+       y="300.24713"
        id="text72825"
-       transform="scale(0.86622026,1.1544408)"><tspan
+       transform="scale(0.84881271,1.1781162)"><tspan
          sodipodi:role="line"
          id="tspan72823"
-         style="stroke-width:0.251833"
-         x="277.64746"
-         y="281.57462">Metales alcalinoterreos</tspan></text>
+         style="stroke-width:0.256998"
+         x="283.34149"
+         y="300.24713">Metales alcalinoterreos</tspan></text>
     <rect
-       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.812324;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.828983;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect121830"
        width="179.88388"
-       height="39.033737"
+       height="40.651169"
        x="216.98013"
-       y="356.01089"
-       ry="8.3443775" />
+       y="391.24997"
+       ry="8.6901417" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.96612px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.124154"
-       x="251.13535"
-       y="326.34579"
+       style="font-style:normal;font-weight:normal;font-size:5.06797px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1267"
+       x="256.28564"
+       y="350.74136"
        id="text73555"
-       transform="scale(0.88182676,1.1340096)"><tspan
+       transform="scale(0.86410558,1.157266)"><tspan
          sodipodi:role="line"
          id="tspan73553"
-         style="stroke-width:0.124154"
-         x="251.13535"
-         y="326.34579">Hidrógeno</tspan><tspan
+         style="stroke-width:0.1267"
+         x="256.28564"
+         y="350.74136">Hidrógeno</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.124154"
-         x="251.13535"
-         y="332.55344"
+         style="stroke-width:0.1267"
+         x="256.28564"
+         y="357.07632"
          id="tspan73557">son sólidos quebradizos, no son maleables como los metales, no son buenos </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.124154"
-         x="251.13535"
-         y="338.76111"
+         style="stroke-width:0.1267"
+         x="256.28564"
+         y="363.41129"
          id="tspan78037">conductores de calor y electricidad. </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.124154"
-         x="251.13535"
-         y="344.96875"
+         style="stroke-width:0.1267"
+         x="256.28564"
+         y="369.74625"
          id="tspan75203">Están en diferentes estados de la materia.</tspan></text>
     <rect
-       style="fill:#ffd371;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.832008;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#ffd371;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.849071;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect121824"
        width="188.70761"
-       height="39.033737"
+       height="40.651169"
        x="20.381742"
-       y="355.49448"
-       ry="8.3443775" />
+       y="390.71216"
+       ry="8.6901417" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.1375px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.278435"
-       x="51.44236"
-       y="394.93445"
+       style="font-style:normal;font-weight:normal;font-size:11.3659px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.284145"
+       x="52.497345"
+       y="424.66385"
        id="text83535"
-       transform="scale(1.077447,0.92811989)"><tspan
+       transform="scale(1.0557947,0.94715384)"><tspan
          sodipodi:role="line"
          id="tspan83533"
-         style="stroke-width:0.278435"
-         x="51.44236"
-         y="394.93445">Metales en transición</tspan></text>
+         style="stroke-width:0.284145"
+         x="52.497345"
+         y="424.66385">Metales en transición</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.84951px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.146238"
-       x="226.32982"
-       y="334.71683"
+       style="font-style:normal;font-weight:normal;font-size:5.96947px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.149237"
+       x="230.97142"
+       y="356.3396"
        id="text84427"
-       transform="scale(0.99115964,1.0089192)"><tspan
+       transform="scale(0.97124134,1.0296102)"><tspan
          sodipodi:role="line"
          id="tspan84425"
-         style="stroke-width:0.146238"
-         x="226.32982"
-         y="334.71683">Los metales alcalinotérreos son reactivos, están en </tspan><tspan
+         style="stroke-width:0.149237"
+         x="230.97142"
+         y="356.3396">Los metales alcalinotérreos son reactivos, están en </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.146238"
-         x="226.32982"
-         y="342.02872"
+         style="stroke-width:0.149237"
+         x="230.97142"
+         y="363.80142"
          id="tspan84429">combinación con otros elementos.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.2235px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.280589"
-       x="267.21573"
-       y="352.81482"
+       style="font-style:normal;font-weight:normal;font-size:11.4537px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.286343"
+       x="272.69583"
+       y="379.42578"
        id="text88403"
-       transform="scale(0.96513219,1.0361275)"><tspan
+       transform="scale(0.94573692,1.0573765)"><tspan
          sodipodi:role="line"
          id="tspan88401"
-         style="stroke-width:0.280589"
-         x="267.21573"
-         y="352.81482">No metales</tspan></text>
+         style="stroke-width:0.286343"
+         x="272.69583"
+         y="379.42578">No metales</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.41348px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.135337"
-       x="32.74939"
-       y="269.66327"
+       style="font-style:normal;font-weight:normal;font-size:5.5245px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.138113"
+       x="33.421017"
+       y="289.4494"
        id="text89913"
-       transform="scale(0.71011279,1.408227)"><tspan
+       transform="scale(0.69584237,1.4371071)"><tspan
          sodipodi:role="line"
          id="tspan89911"
-         style="stroke-width:0.135337"
-         x="32.74939"
-         y="269.66327">Los metales son sólidos a temperatura ambiente, excepto el mercurio. </tspan><tspan
+         style="stroke-width:0.138113"
+         x="33.421017"
+         y="289.4494">Los metales son sólidos a temperatura ambiente, excepto el mercurio. </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.135337"
-         x="32.74939"
-         y="276.43011"
+         style="stroke-width:0.138113"
+         x="33.421017"
+         y="296.35504"
          id="tspan91577">Son maleables y dúctiles, como el cobre. Son buenos conductores de calor y electricidad.</tspan></text>
     <rect
-       style="fill:#aef4a4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.846188;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#aef4a4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.863542;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect121826"
        width="188.70761"
-       height="40.375626"
+       height="42.048664"
        x="19.852575"
-       y="401.70245"
-       ry="8.631237" />
+       y="444.1265"
+       ry="8.9888878" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.2192px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28048"
-       x="59.180664"
-       y="467.03598"
+       style="font-style:normal;font-weight:normal;font-size:11.4493px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.286232"
+       x="60.394348"
+       y="505.17584"
        id="text94103"
-       transform="scale(1.1306823,0.88442174)"><tspan
+       transform="scale(1.1079601,0.90255957)"><tspan
          sodipodi:role="line"
          id="tspan94101"
-         style="stroke-width:0.28048"
-         x="59.180664"
-         y="467.03598">Halógenos</tspan></text>
+         style="stroke-width:0.286232"
+         x="60.394348"
+         y="505.17584">Halógenos</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24997px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.131249"
-       x="21.54254"
-       y="431.20322"
+       style="font-style:normal;font-weight:normal;font-size:5.35764px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.133941"
+       x="21.984337"
+       y="465.81485"
        id="text96297"
-       transform="scale(1.0200995,0.98029652)"><tspan
+       transform="scale(0.99959957,1.0004006)"><tspan
          sodipodi:role="line"
          id="tspan96295"
-         style="stroke-width:0.131249"
-         x="21.54254"
-         y="431.20322">En el grupo 17A o 17</tspan><tspan
+         style="stroke-width:0.133941"
+         x="21.984337"
+         y="465.81485">En el grupo 17A o 17</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.131249"
-         x="21.54254"
-         y="437.76569"
+         style="stroke-width:0.133941"
+         x="21.984337"
+         y="472.5119"
          id="tspan96299">Son no metales altamente reactivos, suelen ser coloridos.</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.131249"
-         x="21.54254"
-         y="444.32816"
+         style="stroke-width:0.133941"
+         x="21.984337"
+         y="479.20895"
          id="tspan96301">y corrosivo. Su nombre significa formador de sal.</tspan></text>
     <rect
-       style="fill:#b980f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.826168;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#b980f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.843111;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect121828"
        width="179.88387"
-       height="40.375626"
+       height="42.048664"
        x="216.98013"
-       y="401.70245"
-       ry="8.631237" />
+       y="444.1265"
+       ry="8.9888878" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.8775px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.271941"
-       x="233.70584"
-       y="434.49576"
+       style="font-style:normal;font-weight:normal;font-size:11.1006px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.277518"
+       x="238.4987"
+       y="469.98822"
        id="text98627"
-       transform="scale(1.0523016,0.9502979)"><tspan
+       transform="scale(1.0311546,0.96978669)"><tspan
          sodipodi:role="line"
          id="tspan98625"
-         style="stroke-width:0.271941"
-         x="233.70584"
-         y="434.49576">Gases nobles</tspan></text>
+         style="stroke-width:0.277518"
+         x="238.4987"
+         y="469.98822">Gases nobles</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.17797px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129449"
-       x="265.17331"
-       y="353.56302"
+       style="font-style:normal;font-weight:normal;font-size:5.28416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132104"
+       x="270.61151"
+       y="381.9072"
        id="text101123"
-       transform="scale(0.83503082,1.1975606)"><tspan
+       transform="scale(0.81825005,1.2221203)"><tspan
          sodipodi:role="line"
          id="tspan101121"
-         style="stroke-width:0.129449"
-         x="265.17331"
-         y="353.56302">En el grupo 18A o 18th</tspan><tspan
+         style="stroke-width:0.132104"
+         x="270.61151"
+         y="381.9072">En el grupo 18A o 18th</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.129449"
-         x="265.17331"
-         y="360.03549"
+         style="stroke-width:0.132104"
+         x="270.61151"
+         y="388.51239"
          id="tspan101125">Son gases incoloros y generalmente no son reactivos. Son poco abundantes en</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.129449"
-         x="265.17331"
-         y="366.50793"
+         style="stroke-width:0.132104"
+         x="270.61151"
+         y="395.11758"
          id="tspan35471">la tierra.</tspan></text>
     <rect
-       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.86531;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#f67280;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.883056;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect121914"
        width="377.01144"
-       height="21.133154"
+       height="22.008844"
        x="19.852575"
-       y="450.48489"
-       ry="4.5177073" />
+       y="494.93033"
+       ry="4.7049065" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.6076px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.290192"
-       x="31.176096"
-       y="418.24399"
+       style="font-style:normal;font-weight:normal;font-size:11.8456px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296143"
+       x="31.815458"
+       y="449.51422"
        id="text103043"
-       transform="scale(0.8983474,1.1131551)"><tspan
+       transform="scale(0.88029424,1.1359838)"><tspan
          sodipodi:role="line"
          id="tspan103041"
-         style="stroke-width:0.290192"
-         x="31.176096"
-         y="418.24399">Metaloides</tspan></text>
+         style="stroke-width:0.296143"
+         x="31.815458"
+         y="449.51422">Metaloides</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.30348px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132587"
-       x="93.02636"
-       y="486.80298"
+       style="font-style:normal;font-weight:normal;font-size:5.41224px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.135306"
+       x="94.934158"
+       y="523.55859"
        id="text105375"
-       transform="scale(1.0598439,0.94353518)"><tspan
+       transform="scale(1.0385453,0.9628853)"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.132587"
-         x="93.02636"
-         y="486.80298"
+         style="stroke-width:0.135306"
+         x="94.934158"
+         y="523.55859"
          id="tspan108213">Los metaloides son similares a los metales, pero las propiedades se encuentran entre los metales y los</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.132587"
-         x="93.02636"
-         y="493.43234"
+         style="stroke-width:0.135306"
+         x="94.934158"
+         y="530.32391"
          id="tspan8807">no metales. Algunos metaloides como el silicio, el germanio (Ge) y el arsénico (As) son semiconductores.</tspan></text>
     <rect
        style="fill:#55ddff;fill-opacity:0.8;fill-rule:evenodd;stroke:none;stroke-width:0.610297;stroke-linecap:round;paint-order:stroke markers fill"
@@ -949,76 +938,76 @@
        id="path119143"
        d="m 787.84607,265.86882 c 1.40281,-0.15269 2.73429,-0.67608 4.06398,-1.13174 0.15655,-0.049 0.76006,-0.3164 1.00549,-0.16704 0.24487,0.14886 0.28998,0.88687 0.2951,1.02128 0.0204,0.50772 -0.10232,1.53204 -0.14792,1.99555 -0.26562,2.39813 -0.61438,4.78447 -0.70907,7.19847 0,0 1.97136,-1.03097 1.97136,-1.03097 v 0 c -0.054,-2.39489 0.21466,-4.77268 0.62894,-7.12804 0.0883,-0.59912 0.24384,-1.48083 0.24586,-2.10804 0.001,-0.35752 -0.007,-1.08336 -0.37648,-1.35075 -0.30245,-0.21998 -0.92337,0.0865 -1.15795,0.16502 -1.24801,0.4438 -2.50593,0.96014 -3.83585,1.05406 0,0 -1.98357,1.48228 -1.98357,1.48228 z" />
     <rect
-       style="fill:#5089c6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.870595;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#5089c6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.888449;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect18421"
        width="188.70761"
-       height="42.738819"
+       height="44.509781"
        x="19.852575"
-       y="265.39487"
-       ry="9.136425" />
+       y="286.29578"
+       ry="9.5150089" />
     <rect
-       style="fill:#fbc7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.850951;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#fbc7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.868402;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect18427"
        width="180.28766"
-       height="42.738819"
+       height="44.509781"
        x="216.98013"
-       y="265.39487"
-       ry="9.136425" />
+       y="286.29578"
+       ry="9.5150089" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.0733px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251833"
-       x="264.65771"
-       y="241.38933"
+       style="font-style:normal;font-weight:normal;font-size:10.2799px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256998"
+       x="270.08536"
+       y="254.74606"
        id="text18496"
-       transform="scale(0.86622026,1.1544408)"><tspan
+       transform="scale(0.84881271,1.1781162)"><tspan
          sodipodi:role="line"
          id="tspan18494"
-         style="stroke-width:0.251833"
-         x="264.65771"
-         y="241.38933">Metales de transición interna</tspan></text>
+         style="stroke-width:0.256998"
+         x="270.08536"
+         y="254.74606">Metales de transición interna</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.11107px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.152777"
-       x="202.18668"
-       y="312.78748"
+       style="font-style:normal;font-weight:normal;font-size:6.2364px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15591"
+       x="206.33315"
+       y="329.74686"
        id="text18918"
-       transform="scale(1.086567,0.92032981)"><tspan
+       transform="scale(1.0647314,0.93920401)"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.152777"
-         x="202.18668"
-         y="312.78748"
+         style="stroke-width:0.15591"
+         x="206.33315"
+         y="329.74686"
          id="tspan24007">Su estructura es más compleja en comparación con </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.152777"
-         x="202.18668"
-         y="320.4263"
+         style="stroke-width:0.15591"
+         x="206.33315"
+         y="337.54236"
          id="tspan26791">la de los elementos de transición, ya que tienen los </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.152777"
-         x="202.18668"
-         y="328.06516"
+         style="stroke-width:0.15591"
+         x="206.33315"
+         y="345.33786"
          id="tspan29565">tres niveles cuánticos más externos incompletos.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.18929px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154732"
-       x="24.440849"
-       y="313.86652"
+       style="font-style:normal;font-weight:normal;font-size:6.31622px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.157905"
+       x="24.942085"
+       y="330.85483"
        id="text36393"
-       transform="scale(1.0872474,0.91975391)"><tspan
+       transform="scale(1.0653981,0.93861628)"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.154732"
-         x="24.440849"
-         y="313.86652"
+         style="stroke-width:0.157905"
+         x="24.942085"
+         y="330.85483"
          id="tspan37241">La mayoría son blandos o quebradizos, con </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.154732"
-         x="24.440849"
-         y="321.60312"
+         style="stroke-width:0.157905"
+         x="24.942085"
+         y="338.75009"
          id="tspan44495">poca resistencia mecánica y tienen puntos </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.154732"
-         x="24.440849"
-         y="329.33975"
+         style="stroke-width:0.157905"
+         x="24.942085"
+         y="346.64539"
          id="tspan51487">de fusión más bajos que los metales de transición..</tspan></text>
     <text
        xml:space="preserve"
@@ -1038,18 +1027,18 @@
          y="311.22021" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.94264px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.223566"
-       x="49.146034"
-       y="249.45995"
+       style="font-style:normal;font-weight:normal;font-size:9.12604px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.228151"
+       x="50.153927"
+       y="263.37396"
        id="text42041"
-       transform="scale(0.90657285,1.1030553)"><tspan
+       transform="scale(0.88835438,1.1256769)"><tspan
          sodipodi:role="line"
          id="tspan42039"
-         style="stroke-width:0.223566"
-         x="49.146034"
-         y="249.45995">Metales posterioes a la transición</tspan></text>
+         style="stroke-width:0.228151"
+         x="50.153927"
+         y="263.37396">Metales posterioes a la transición</tspan></text>
     <rect
-       style="fill:#2affd5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#c7ffd8;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect7913"
        width="376.45416"
        height="77.521591"
@@ -1237,5 +1226,209 @@
        cy="443.08893"
        rx="0.24360442"
        ry="0.13538745" />
+    <rect
+       style="fill:#0300ff;fill-opacity:0.35;fill-rule:evenodd;stroke-width:0.256618;stroke-linecap:round;paint-order:stroke markers fill"
+       id="rect1990"
+       width="376.4541"
+       height="47.857555"
+       x="435.22839"
+       y="472.58908"
+       ry="12.463246" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;line-height:1.25;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;fill-opacity:1;stroke-width:0.264583"
+       x="655.0163"
+       y="490.93799"
+       id="text1524"><tspan
+         sodipodi:role="line"
+         id="tspan1522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;fill-opacity:1;stroke-width:0.264583"
+         x="655.0163"
+         y="490.93799">C. (2021). Quimica (11.a ed.). MCGRAW HILL EDDUCATION.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-size:5.29166662px;line-height:125%;font-family:'3ds';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'3ds, Normal';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="635.8894"
+       y="470.70804"
+       id="text2554"><tspan
+         sodipodi:role="line"
+         x="635.8894"
+         y="470.70804"
+         id="tspan2552"
+         style="stroke-width:0.264583;-inkscape-font-specification:'3ds, Normal';font-family:'3ds';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.29166662px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-size:5.29166662px;font-family:'3ds';fill:#aaeeff;stroke-width:0.264583;-inkscape-font-specification:'3ds, Normal';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan2548">•</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-size:5.29166662px;font-family:'3ds';fill:#aaeeff;stroke-width:0.264583;-inkscape-font-specification:'3ds, Normal';font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan2550"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;line-height:173.287%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="441.1546"
+       y="490.28732"
+       id="text2570"><tspan
+         sodipodi:role="line"
+         x="441.1546"
+         y="490.28732"
+         id="tspan2568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49791663px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49791663px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan2556">UBUinvestiga. (24 de octubre del 2019). Entendiendo la tabla periódica [Video]. YouTube.</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="441.1546"
+         y="499.45709"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49791663px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+         id="tspan11398"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49791663px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan11400">https://www.youtube.com/watch?v=FqZ3BSeu1d0 </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;line-height:125%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.764644"
+       x="645.80505"
+       y="504.08737"
+       id="text2578"
+       transform="scale(1.0044672,0.99555266)"><tspan
+         sodipodi:role="line"
+         x="645.80505"
+         y="504.08737"
+         id="tspan2576"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"
+           id="tspan2572">•</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"
+           id="tspan2574"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;line-height:172.461%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="441.1546"
+       y="507.53558"
+       id="text2598"><tspan
+         sodipodi:role="line"
+         x="441.1546"
+         y="507.53558"
+         id="tspan2584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49791663px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49791663px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan2580">UBUinvestiga. (3 de diciembre del 2020). Aplicaciones de la tabla periódica | Propiedades </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="441.1546"
+         y="516.66162"
+         id="tspan2596"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49791663px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49791663px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan2586">periódicas y baterías de ion litio [Video]. Youbute. https://www.youtube.com/watch?v=mQBegpOkfmo </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;line-height:171.636%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="655.76862"
+       y="499.18582"
+       id="text2630"><tspan
+         sodipodi:role="line"
+         x="655.76862"
+         y="499.18582"
+         id="tspan2628"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"><tspan
+   dx="0 0 0 0 0 0 -0.21539888 0 0"
+   dy="0 0 0 0 0 0 0 0 0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+   id="tspan2608">Educar-C. (4 de noviembre del 2020). TABLA </tspan>PERIÓDICA | Organización </tspan><tspan
+         sodipodi:role="line"
+         x="655.76862"
+         y="506.90588"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+         id="tspan13917">y Clasificación de los ELEMENTOS [Video]. </tspan><tspan
+         sodipodi:role="line"
+         x="655.76862"
+         y="514.62592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+         id="tspan17185">Youtube. <tspan
+   dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+   dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+   id="tspan17187">https://www.youtube.com/watch?v=qrb0apkL-iE </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;line-height:125%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.764644"
+       x="434.55197"
+       y="494.51993"
+       id="text17275"
+       transform="scale(1.0044672,0.99555266)"><tspan
+         sodipodi:role="line"
+         x="434.55197"
+         y="494.51993"
+         id="tspan17273"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"
+           id="tspan17269">•</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"
+           id="tspan17271"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;line-height:125%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.764644"
+       x="434.55197"
+       y="512.59198"
+       id="text17283"
+       transform="scale(1.0044672,0.99555266)"><tspan
+         sodipodi:role="line"
+         x="434.55197"
+         y="512.59198"
+         id="tspan17281"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"
+           id="tspan17277">•</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"
+           id="tspan17279"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;line-height:125%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.764644"
+       x="645.80505"
+       y="495.58286"
+       id="text18651"
+       transform="scale(1.0044672,0.99555266)"><tspan
+         sodipodi:role="line"
+         x="645.80505"
+         y="495.58286"
+         id="tspan18649"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"
+           id="tspan18645">•</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2929px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.764644"
+           id="tspan18647"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26042px;line-height:1.25;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="440.37024"
+       y="482.19202"
+       id="text18677"><tspan
+         sodipodi:role="line"
+         id="tspan18675"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26042px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="440.37024"
+         y="482.19202">Referencias</tspan></text>
   </g>
 </svg>
