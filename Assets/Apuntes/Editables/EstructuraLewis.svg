@@ -9,9 +9,6 @@
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="EstructuraLewis.svg"
-   inkscape:export-filename="E:\Documentos\GitHub\Compartido\Proyecto Estructura de los Materiales\Assets\2_Sprites\EstructuraLewis.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -31,11 +28,11 @@
      showguides="true"
      inkscape:guide-bbox="true"
      width="2700px"
-     inkscape:zoom="0.43296802"
-     inkscape:cx="1405.4156"
-     inkscape:cy="797.98042"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:zoom="0.18417691"
+     inkscape:cx="3162.7199"
+     inkscape:cy="1240.6549"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -123,6 +120,20 @@
        height="6"
        x="0"
        y="0" />
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-01"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
   </defs>
   <g
      inkscape:label="Capa 1"
@@ -137,20 +148,12 @@
        height="396.875"
        sodipodi:insensitive="true" />
     <rect
-       style="fill:#ff0000;fill-opacity:0.49799198;fill-rule:evenodd;stroke-width:4.05236;stroke-linecap:round;stroke-dasharray:4.05236, 32.4189;paint-order:stroke markers fill"
-       id="rect63129"
-       width="83.396729"
-       height="21.60537"
-       x="520.68939"
-       y="346.55011"
-       ry="10.802685" />
-    <rect
        style="fill:#aaffcc;fill-opacity:1;fill-rule:evenodd;stroke-width:3.12256;stroke-linecap:round;stroke-dasharray:3.12256, 24.9804;paint-order:stroke markers fill"
        id="rect58765"
        width="106.33002"
        height="23.221498"
        x="447.31943"
-       y="263.99179"
+       y="224.83345"
        ry="11.610749" />
     <rect
        style="fill:#a02c89;fill-opacity:0.751004;fill-rule:evenodd;stroke-width:4.05236;stroke-linecap:round;stroke-dasharray:4.05236, 32.4189;paint-order:stroke markers fill"
@@ -327,10 +330,10 @@
            dx="0"
            dy="0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04272px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.44017"
-           id="tspan15274"> </tspan></tspan></text>
+           id="tspan15274"> (Recio, 2012, pág 71-72)</tspan></tspan></text>
     <g
        clip-path="url(#clip0)"
-       transform="matrix(0.41022766,0,0,0.36462686,321.31917,-13.123579)"
+       transform="matrix(0.41022766,0,0,0.36462686,321.31917,-20.00275)"
        id="g16507">
       <g
          clip-path="url(#clip1)"
@@ -557,24 +560,24 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.7285px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318213"
        x="512.58826"
-       y="247.71912"
+       y="213.03845"
        id="text57935"
        transform="scale(0.88564993,1.1291143)"><tspan
          sodipodi:role="line"
          id="tspan57933"
          style="stroke-width:0.318213"
          x="512.58826"
-         y="247.71912">Regla del octeto</tspan></text>
+         y="213.03845">Regla del octeto</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.35331px;line-height:114.979%;font-family:'Liberation Serif';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.459581"
        x="527.17932"
-       y="253.24359"
+       y="219.32202"
        id="text59646"
        transform="scale(0.84347286,1.1855746)"><tspan
          sodipodi:role="line"
          x="527.17932"
-         y="253.24359"
+         y="219.32202"
          id="tspan59618"
          style="stroke-width:0.459581"><tspan
            dx="0"
@@ -583,7 +586,7 @@
            id="tspan59616">Los elementos tienen la tendencia a completar sus últimos niveles de energía con 8 electrones ya que </tspan></tspan><tspan
          sodipodi:role="line"
          x="527.17932"
-         y="261.69836"
+         y="227.77678"
          id="tspan59632"
          style="stroke-width:0.459581"><tspan
            dx="0"
@@ -612,7 +615,7 @@
            id="tspan59630">el helio), aunque hay </tspan></tspan><tspan
          sodipodi:role="line"
          x="527.17932"
-         y="270.15311"
+         y="236.23155"
          id="tspan59636"
          style="stroke-width:0.459581"><tspan
            dx="0"
@@ -621,7 +624,7 @@
            id="tspan59634">ocasiones en las que si lleva hidrógeno solo deben de sumar 8 electrones de valencia por parte del </tspan></tspan><tspan
          sodipodi:role="line"
          x="527.17932"
-         y="278.60788"
+         y="244.68631"
          id="tspan59644"
          style="stroke-width:0.459581"><tspan
            dx="0"
@@ -636,113 +639,360 @@
            dy="0"
            style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.35331px;font-family:'Liberation Serif';fill:#000000;stroke-width:0.459581"
            id="tspan59642"> </tspan></tspan></text>
+    <g
+       id="g152"
+       transform="translate(0,-56.090093)">
+      <rect
+         style="fill:#ff0000;fill-opacity:0.497992;fill-rule:evenodd;stroke-width:4.05236;stroke-linecap:round;stroke-dasharray:4.05236, 32.4189;paint-order:stroke markers fill"
+         id="rect63129"
+         width="83.396729"
+         height="21.60537"
+         x="520.68939"
+         y="346.55011"
+         ry="10.802685" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:14.5154px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.362887"
+         x="575.79358"
+         y="340.96109"
+         id="text62846"
+         transform="scale(0.94426133,1.0590289)"><tspan
+           sodipodi:role="line"
+           id="tspan62844"
+           style="stroke-width:0.362887"
+           x="575.79358"
+           y="340.96109">o  c  o</tspan></text>
+      <circle
+         id="circle62937"
+         style="fill:#2b0022;stroke:#000000;stroke-width:0.264583"
+         cx="558.7594"
+         cy="354.43341"
+         r="1.2466745" />
+      <circle
+         id="circle62939"
+         style="fill:#2b0022;stroke:#000000;stroke-width:0.264583"
+         cx="572.20343"
+         cy="354.12787"
+         r="1.2466745" />
+      <circle
+         id="circle62941"
+         style="fill:#2b0022;stroke:#000000;stroke-width:0.264583"
+         cx="572.20343"
+         cy="359.32214"
+         r="1.2466745" />
+      <circle
+         id="circle62943"
+         style="fill:#2b0022;stroke:#000000;stroke-width:0.264583"
+         cx="558.56189"
+         cy="359.44711"
+         r="1.2466745" />
+      <circle
+         id="circle62945"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="553.4306"
+         cy="359.44711"
+         r="1.2466745" />
+      <circle
+         id="circle62965"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="553.4306"
+         cy="354.20782"
+         r="1.2466745" />
+      <circle
+         id="circle62967"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="576.20044"
+         cy="353.96582"
+         r="1.2466745" />
+      <circle
+         id="circle62987"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="576.20044"
+         cy="359.36716"
+         r="1.2466745" />
+      <circle
+         id="circle62989"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="586.51703"
+         cy="354.01984"
+         r="1.2466745" />
+      <circle
+         id="circle62991"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="586.89514"
+         cy="359.25912"
+         r="1.2466745" />
+      <circle
+         id="circle62993"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="579.8194"
+         cy="363.5802"
+         r="1.2466745" />
+      <circle
+         id="circle62995"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="583.43829"
+         cy="363.5802"
+         r="1.2466745" />
+      <circle
+         id="circle62997"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="542.5199"
+         cy="354.15381"
+         r="1.2466745" />
+      <circle
+         id="circle62999"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="542.14178"
+         cy="359.12305"
+         r="1.2466745" />
+      <circle
+         id="circle63001"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="549.16351"
+         cy="363.44412"
+         r="1.2466745" />
+      <circle
+         id="circle63003"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
+         cx="545.38257"
+         cy="363.22806"
+         r="1.2466745" />
+    </g>
+    <rect
+       style="fill:#000080;fill-opacity:0.34999999;fill-rule:evenodd;stroke-width:0.332584;stroke-linecap:round;paint-order:stroke markers fill"
+       id="rect194"
+       width="196.37387"
+       height="59.19622"
+       x="508.26794"
+       y="334.63986"
+       ry="9.6535292" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.5154px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.362887"
-       x="575.79358"
-       y="340.96109"
-       id="text62846"
-       transform="scale(0.94426133,1.0590289)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;line-height:1.25;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"
+       x="515.37506"
+       y="347.88577"
+       id="text1524"><tspan
          sodipodi:role="line"
-         id="tspan62844"
-         style="stroke-width:0.362887"
-         x="575.79358"
-         y="340.96109">o  c  o</tspan></text>
-    <circle
-       id="circle62937"
-       style="fill:#2b0022;stroke:#000000;stroke-width:0.264583"
-       cx="558.7594"
-       cy="354.43341"
-       r="1.2466745" />
-    <circle
-       id="circle62939"
-       style="fill:#2b0022;stroke:#000000;stroke-width:0.264583"
-       cx="572.20343"
-       cy="354.12787"
-       r="1.2466745" />
-    <circle
-       id="circle62941"
-       style="fill:#2b0022;stroke:#000000;stroke-width:0.264583"
-       cx="572.20343"
-       cy="359.32214"
-       r="1.2466745" />
-    <circle
-       id="circle62943"
-       style="fill:#2b0022;stroke:#000000;stroke-width:0.264583"
-       cx="558.56189"
-       cy="359.44711"
-       r="1.2466745" />
-    <circle
-       id="circle62945"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="553.4306"
-       cy="359.44711"
-       r="1.2466745" />
-    <circle
-       id="circle62965"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="553.4306"
-       cy="354.20782"
-       r="1.2466745" />
-    <circle
-       id="circle62967"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="576.20044"
-       cy="353.96582"
-       r="1.2466745" />
-    <circle
-       id="circle62987"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="576.20044"
-       cy="359.36716"
-       r="1.2466745" />
-    <circle
-       id="circle62989"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="586.51703"
-       cy="354.01984"
-       r="1.2466745" />
-    <circle
-       id="circle62991"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="586.89514"
-       cy="359.25912"
-       r="1.2466745" />
-    <circle
-       id="circle62993"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="579.8194"
-       cy="363.5802"
-       r="1.2466745" />
-    <circle
-       id="circle62995"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="583.43829"
-       cy="363.5802"
-       r="1.2466745" />
-    <circle
-       id="circle62997"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="542.5199"
-       cy="354.15381"
-       r="1.2466745" />
-    <circle
-       id="circle62999"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="542.14178"
-       cy="359.12305"
-       r="1.2466745" />
-    <circle
-       id="circle63001"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="549.16351"
-       cy="363.44412"
-       r="1.2466745" />
-    <circle
-       id="circle63003"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
-       cx="545.38257"
-       cy="363.22806"
-       r="1.2466745" />
+         id="tspan1522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"
+         x="515.37506"
+         y="347.88577">C. (2021). Quimica (11.a ed.). MCGRAW HILL EDDUCATION.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.26834px;line-height:1.25;font-family:'3ds';-inkscape-font-specification:'3ds';fill:#0000ff;stroke-width:0.181709"
+       x="363.32297"
+       y="370.27554"
+       id="text4196"
+       transform="scale(1.293572,0.77305323)"><tspan
+         sodipodi:role="line"
+         id="tspan4194"
+         style="fill:#0000ff;stroke-width:0.181709"
+         x="363.32297"
+         y="370.27554">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="511.56589"
+       y="339.63235"
+       id="text5314"><tspan
+         sodipodi:role="line"
+         id="tspan5312"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="511.56589"
+         y="339.63235">Referencias</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.1525px;line-height:1.25;font-family:'3ds';-inkscape-font-specification:'3ds';stroke-width:0.153813"
+       x="531.12866"
+       y="143.04871"
+       id="text192"
+       transform="scale(1.112366,0.89898468)"><tspan
+         sodipodi:role="line"
+         id="tspan190"
+         style="stroke-width:0.153813"
+         x="531.12866"
+         y="143.04871">Esrtructura de Lewis </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.153813"
+         x="531.12866"
+         y="150.73933"
+         id="tspan960">por eementos en la tabla</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.153813"
+         x="531.12866"
+         y="158.42996"
+         id="tspan962">periódica. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;line-height:125%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="511.34302"
+       y="356.10611"
+       id="text1053"><tspan
+         sodipodi:role="line"
+         x="511.34302"
+         y="356.10611"
+         id="tspan1051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#00ffff"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.264583"
+           id="tspan1047">•</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.264583"
+           id="tspan1049"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;line-height:184.967%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="515.5752"
+       y="356.10611"
+       id="text1075"><tspan
+         sodipodi:role="line"
+         x="515.5752"
+         y="356.10611"
+         id="tspan1067"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.468308 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan1055">A Cierta Ciencia. (24 de noviembre del 2020). Estructura de Lewis (¿Qué es? y Ejercicios) </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="515.5752"
+         y="363.44699"
+         id="tspan1073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan1069">[Fác</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan1071">il y Rápido] | QUÍMICA | [Video]. Youtube. https://www.youtube.com/watch?v=IXQ0amr_u3I </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;line-height:125%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="493.34988"
+       y="371.27283"
+       id="text1083"><tspan
+         sodipodi:role="line"
+         x="493.34988"
+         y="371.27283"
+         id="tspan1081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;line-height:125%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="511.34302"
+       y="371.1304"
+       id="text1091"><tspan
+         sodipodi:role="line"
+         x="511.34302"
+         y="371.1304"
+         id="tspan1089"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#00ffff"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.264583"
+           id="tspan1085">•</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.264583"
+           id="tspan1087"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;line-height:173.302%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="515.32123"
+       y="371.30112"
+       id="text1105"><tspan
+         sodipodi:role="line"
+         x="515.32123"
+         y="371.30112"
+         id="tspan1097"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan1093">Es Ciencia</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan1095">. (12 de agosto del 2020). Estructuras de Lewis y Regla del Octeto [Video]. Youtube. </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="515.32123"
+         y="378.17905"
+         id="tspan1103"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan1099">https://www.youtube.com/watch?v=K_91nPB4_CQ</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan1101"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;line-height:125%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="511.34302"
+       y="386.26196"
+       id="text1113"><tspan
+         sodipodi:role="line"
+         x="511.34302"
+         y="386.26196"
+         id="tspan1111"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#00ffff"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.264583"
+           id="tspan1107">•</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.264583"
+           id="tspan1109"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;line-height:173.302%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="515.19427"
+       y="385.12036"
+       id="text1131"><tspan
+         sodipodi:role="line"
+         x="515.19427"
+         y="385.12036"
+         id="tspan1119"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+           id="tspan1115">Quimiayudas. (9 de agosto del 2018). Estructuras de Lewis [Video]. </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="515.19427"
+         y="391.99829"
+         id="tspan1129"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff">Youtube. <tspan
+   dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+   dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aaeeff;stroke-width:0.264583"
+   id="tspan1121">https://www.youtube.com/watch?v=B-DeKZKIViU </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;line-height:125%;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="511.34302"
+       y="347.63931"
+       id="text5836"><tspan
+         sodipodi:role="line"
+         x="511.34302"
+         y="347.63931"
+         id="tspan5834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#00ffff"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.264583"
+           id="tspan5830">•</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14337px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.264583"
+           id="tspan5832"> </tspan></tspan></text>
   </g>
 </svg>

@@ -3,15 +3,12 @@
 
 <svg
    width="3200"
-   height="1800"
-   viewBox="0 0 846.66665 476.25001"
+   height="1900"
+   viewBox="0 0 846.66665 502.70834"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="FuerzasMoleculares.svg"
-   inkscape:export-filename="E:\Documentos\GitHub\Compartido\Proyecto Estructura de los Materiales\Assets\2_Sprites\FuerzasMoleculares.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -31,15 +28,16 @@
      width="3200px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.28866985"
-     inkscape:cx="1428.9681"
-     inkscape:cy="1013.2683"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:zoom="0.47800332"
+     inkscape:cx="1362.9612"
+     inkscape:cy="1277.1878"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     height="1900px">
     <sodipodi:guide
        position="27.290993,350.97684"
        orientation="1,0"
@@ -130,7 +128,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipEmfPath1">
       <path
-         d="M 0.99890235,0.19978847 L 228.7482,0.19978847 L 228.7482,24.173399 L 0.99890235,24.173399 z"
+         d="M 0.99890235,0.19978847 H 228.7482 V 24.173399 H 0.99890235 Z"
          id="path59131" />
     </clipPath>
     <pattern
@@ -144,7 +142,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipEmfPath1-4">
       <path
-         d="M 0.99890235,0.19977704 L 638.29738,0.19977704 L 638.29738,73.119509 L 0.99890235,73.119509 z"
+         d="M 0.99890235,0.19977704 H 638.29738 V 73.119509 H 0.99890235 Z"
          id="path142687" />
     </clipPath>
     <pattern
@@ -160,14 +158,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ccffaa;fill-rule:evenodd;stroke-width:1.34091;stroke-linecap:round;paint-order:stroke markers fill"
+       style="fill:#ccffaa;fill-rule:evenodd;stroke-width:1.37767;stroke-linecap:round;paint-order:stroke markers fill"
        id="rect1028"
        width="846.66669"
-       height="476.25"
+       height="502.70834"
        x="0"
        y="1.7763568e-15"
        ry="0"
-       rx="0" />
+       rx="0"
+       sodipodi:insensitive="true" />
     <path
        id="rect1774"
        style="fill:#99ff55;fill-rule:evenodd;stroke-width:0.637065;stroke-linecap:round;paint-order:stroke markers fill"
@@ -1131,13 +1130,13 @@
          transform="scale(1.1912316,0.83946732)"><tspan
            sodipodi:role="line"
            id="tspan114007"
-           style="stroke-width:0.274124;fill:#000000"
+           style="fill:#000000;stroke-width:0.274124"
            x="114.24734"
            y="-13.264067">¿Porqué el hielo flota en aag?</tspan></text>
     </g>
     <g
        id="g124802"
-       transform="matrix(0.8960852,0,0,0.76279749,229.41312,117.77052)">
+       transform="matrix(0.8960852,0,0,0.76279749,243.25106,124.41273)">
       <rect
          style="fill:#84ef7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.04014;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:3.04014, 24.3212;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
          id="rect112302"
@@ -1203,7 +1202,7 @@
          style="stroke-width:0.264583"
          x="33.013561"
          y="366.23492"
-         id="tspan125926">enlace covalente o enlace iónico.</tspan></text>
+         id="tspan125926">enlace covalente o enlace iónico.b( Recio, 2004, pág 142)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1232,7 +1231,7 @@
          id="tspan129734">   Dispersión o de London.</tspan></text>
     <g
        id="g133348"
-       transform="translate(-20.739319,2.5930199)">
+       transform="matrix(0.88749858,0,0,0.8531619,50.930035,40.460793)">
       <ellipse
          style="fill:#800080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.05236;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.05236, 32.4189;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
          id="path132968"
@@ -1267,159 +1266,123 @@
          d="m 263.2293,454.17996 c 2.48237,-0.0463 4.96535,-0.0406 7.44802,-0.0347 2.14754,0.006 4.29509,0.0172 6.44263,0.009 2.52875,0.0795 5.04338,-0.15242 7.55838,-0.37536 1.55982,-0.23328 3.0965,-0.58031 4.66407,-0.7633 0,0 3.14283,-2.33624 3.14283,-2.33624 v 0 c -1.58417,0.16253 -3.13619,0.49114 -4.69765,0.79653 -2.50759,0.24037 -5.01542,0.52982 -7.53978,0.40584 -2.15609,-0.008 -4.31215,0.004 -6.46824,0.01 -2.45102,0.006 -4.90239,0.0127 -7.35306,-0.0343 0,0 -3.1972,2.32291 -3.1972,2.32291 z" />
     </g>
     <ellipse
-       style="fill:#800080;fill-opacity:0.751004;fill-rule:evenodd;stroke:none;stroke-width:4.62454;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.62454, 36.9963;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       style="fill:#800080;fill-opacity:0.751004;fill-rule:evenodd;stroke:none;stroke-width:4.02409;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.02409, 32.1927;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="ellipse133350"
-       cx="376.56274"
-       cy="458.20013"
-       rx="15.554935"
-       ry="13.609779" />
+       cx="403.53506"
+       cy="429.16742"
+       rx="13.804983"
+       ry="11.611345" />
     <ellipse
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.05236;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.05236, 32.4189;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.52621;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:3.52621, 28.2097;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="ellipse133352"
-       cx="427.43903"
-       cy="456.5784"
-       rx="13.286536"
-       ry="12.637686" />
+       cx="448.68768"
+       cy="427.78384"
+       rx="11.791782"
+       ry="10.781992" />
     <ellipse
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.05236;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.05236, 32.4189;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.52621;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:3.52621, 28.2097;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="ellipse133354"
-       cx="437.72235"
-       cy="463.41257"
-       rx="7.1293526"
-       ry="6.4808555" />
+       cx="457.81412"
+       cy="433.61447"
+       rx="6.3272901"
+       ry="5.5292192" />
     <ellipse
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.05236;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.05236, 32.4189;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.52621;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:3.52621, 28.2097;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="ellipse133356"
-       cx="436.664"
-       cy="444.89145"
-       rx="7.1293526"
-       ry="6.4808555" />
+       cx="456.87485"
+       cy="417.81296"
+       rx="6.3272901"
+       ry="5.5292192" />
     <path
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.05236;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.05236, 32.4189;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.52621;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:3.52621, 28.2097;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="path133358"
-       d="m 388.31389,458.71311 c 2.48237,-0.0463 4.96535,-0.0406 7.44802,-0.0347 2.14754,0.006 4.29509,0.0172 6.44263,0.009 2.52875,0.0795 5.04338,-0.15242 7.55838,-0.37536 1.55982,-0.23328 3.0965,-0.58031 4.66407,-0.7633 0,0 3.14283,-2.33624 3.14283,-2.33624 v 0 c -1.58417,0.16253 -3.13619,0.49114 -4.69765,0.79653 -2.50759,0.24037 -5.01542,0.52982 -7.53978,0.40584 -2.15609,-0.008 -4.31215,0.004 -6.46824,0.01 -2.45102,0.006 -4.90239,0.0127 -7.35306,-0.0343 0,0 -3.1972,2.32291 -3.1972,2.32291 z" />
+       d="m 413.96418,429.60507 c 2.2031,-0.0395 4.40674,-0.0346 6.61011,-0.0296 1.90594,0.005 3.81188,0.0147 5.71782,0.008 2.24426,0.0678 4.476,-0.13004 6.70805,-0.32024 1.38434,-0.19903 2.74814,-0.4951 4.13936,-0.65122 0,0 2.78926,-1.99319 2.78926,-1.99319 v 0 c -1.40595,0.13866 -2.78337,0.41902 -4.16916,0.67957 -2.22548,0.20507 -4.45118,0.45202 -6.69154,0.34624 -1.91353,-0.007 -3.82703,0.003 -5.74056,0.009 -2.17528,0.005 -4.35086,0.0108 -6.52583,-0.0293 0,0 -2.83751,1.98182 -2.83751,1.98182 z" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="206.75926"
-       y="467.2785"
-       id="text134921"><tspan
+       style="font-style:normal;font-weight:normal;font-size:9.20917px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23023"
+       x="247.89546"
+       y="445.6181"
+       id="text134921"
+       transform="scale(1.0199247,0.98046454)"><tspan
          sodipodi:role="line"
          id="tspan134919"
-         style="stroke-width:0.264583"
-         x="206.75926"
-         y="467.2785">Na</tspan></text>
+         style="stroke-width:0.23023"
+         x="247.89546"
+         y="445.6181">Na</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="348.04645"
-       y="469.86688"
-       id="text136311"><tspan
+       style="font-style:normal;font-weight:normal;font-size:9.20917px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23023"
+       x="370.83804"
+       y="447.87042"
+       id="text136311"
+       transform="scale(1.0199247,0.98046454)"><tspan
          sodipodi:role="line"
          id="tspan136309"
-         style="stroke-width:0.264583"
-         x="348.04645"
-         y="469.86688">Mg</tspan></text>
+         style="stroke-width:0.23023"
+         x="370.83804"
+         y="447.87042">Mg</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.22531px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.230633"
-       x="284.50778"
-       y="490.42572"
+       style="font-style:normal;font-weight:normal;font-size:8.0275px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200688"
+       x="312.70297"
+       y="467.46451"
        id="text137965"
-       transform="scale(1.0436965,0.95813292)"><tspan
+       transform="scale(1.0644918,0.93941539)"><tspan
          sodipodi:role="line"
          id="tspan137963"
-         style="stroke-width:0.230633"
-         x="284.50778"
-         y="490.42572">Ion</tspan></text>
+         style="stroke-width:0.200688"
+         x="312.70297"
+         y="467.46451">Ion</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.22531px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.230633"
-       x="426.08942"
-       y="493.12698"
+       style="font-style:normal;font-weight:normal;font-size:8.0275px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200688"
+       x="435.90179"
+       y="469.81503"
        id="text138181"
-       transform="scale(1.0436965,0.95813293)"><tspan
+       transform="scale(1.0644918,0.93941539)"><tspan
          sodipodi:role="line"
          id="tspan138179"
-         style="stroke-width:0.230633"
-         x="426.08942"
-         y="493.12698">Ion</tspan></text>
+         style="stroke-width:0.200688"
+         x="435.90179"
+         y="469.81503">Ion</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.9519px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.148798"
-       x="206.9664"
-       y="502.3493"
+       style="font-style:normal;font-weight:normal;font-size:5.17911px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129478"
+       x="238.99745"
+       y="482.14767"
        id="text139329"
-       transform="scale(1.1541211,0.86646019)"><tspan
+       transform="scale(1.1771166,0.84953351)"><tspan
          sodipodi:role="line"
          id="tspan139327"
-         style="stroke-width:0.148798"
-         x="206.9664"
-         y="502.3493">Interacción </tspan><tspan
+         style="stroke-width:0.129478"
+         x="238.99745"
+         y="482.14767">Interacción </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.148798"
-         x="206.9664"
-         y="509.78918"
+         style="stroke-width:0.129478"
+         x="238.99745"
+         y="488.62155"
          id="tspan139331">débil</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.04448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126112"
-       x="340.15503"
-       y="504.22324"
+       style="font-style:normal;font-weight:normal;font-size:4.38951px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.109738"
+       x="355.01691"
+       y="483.68381"
        id="text141247"
-       transform="scale(1.1516981,0.86828309)"><tspan
+       transform="scale(1.1746453,0.8513208)"><tspan
          sodipodi:role="line"
          id="tspan141243"
-         style="stroke-width:0.126112"
-         x="340.15503"
-         y="504.22324">Interacción </tspan><tspan
+         style="stroke-width:0.109738"
+         x="355.01691"
+         y="483.68381">Interacción </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.126112"
-         x="340.15503"
-         y="510.52884"
+         style="stroke-width:0.109738"
+         x="355.01691"
+         y="489.17068"
          id="tspan141245">fuerte</tspan></text>
     <path
        style="fill:none;stroke:none;stroke-width:0.264583"
        d="m 413.96418,410.31172 h 168.88285 v 19.29335 H 413.96418 Z"
        id="path142693" />
-    <g
-       clip-path="url(#clipEmfPath1-4)"
-       id="g142713"
-       transform="matrix(0.42101545,0,0,0.67168138,485.62487,400.28718)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:400;font-size:15px;line-height:119.868%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         transform="translate(9.989006,-0.799123)"
-         x="0"
-         y="11.25"
-         id="text142711"><tspan
-           sodipodi:role="line"
-           x="0"
-           y="11.25"
-           id="tspan146277"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15px;font-family:Calibri;fill:#000000">La estructura tridimensional del hielo evita que las moléculas se acerquen </tspan><tspan
-           sodipodi:role="line"
-           x="0"
-           y="29.230198"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15px;font-family:Calibri;fill:#000000"
-           id="tspan151361">tanto entre ellas. La forma sólida es menos densa que su forma líquida. A diferencia </tspan><tspan
-           sodipodi:role="line"
-           x="0"
-           y="47.210396"
-           id="tspan142701"><tspan
-             id="tspan154569"
-             style="font-style:normal;font-variant:normal;font-weight:400;font-size:15px;font-family:Calibri;fill:#000000"
-             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-             dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">de otras moléculas polares, las moléculas del agua se enlazan en una red </tspan></tspan><tspan
-           sodipodi:role="line"
-           x="0"
-           y="65.19059"
-           id="tspan142709"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:400;font-size:15px;font-family:Calibri;fill:#000000"
-             id="tspan158029"
-             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-             dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">tridimensional donde cada átomo de oxígeno forma un tetraedro con 4 átomos de hidrógeno.  </tspan></tspan></text>
-    </g>
     <image
        width="73.605507"
        height="72.10601"
@@ -1463,5 +1426,118 @@
        cy="442.14722"
        rx="2.1064143"
        ry="2.430337" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="495.12173"
+       y="417.90594"
+       id="text4182"><tspan
+         sodipodi:role="line"
+         id="tspan4180"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="495.12173"
+         y="417.90594">La estructura tridimensional del hielo evita que las moléculas se acerquen </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="495.12173"
+         y="427.82782"
+         id="tspan4184">tanto entre ellas. La forma sólida es menos densa que su forma líquida. A </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="495.12173"
+         y="437.74969"
+         id="tspan4186">diferencia de otras moléculas polares, las moléculas del agua se enlazan en </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="495.12173"
+         y="447.67157"
+         id="tspan4188">una red tridimensional donde cada átomo de oxígeno forma un tetraedro </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="495.12173"
+         y="457.59344"
+         id="tspan34108">con 4 átomos de hidrógeno. (Williams, 2002, pág. 443) </tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:0.4;fill-rule:evenodd;stroke-width:0.248687;stroke-linecap:round;paint-order:stroke markers fill"
+       id="rect21896"
+       width="323.08575"
+       height="35.978653"
+       x="27.290993"
+       y="461.63382"
+       ry="5.0939169" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Forte;-inkscape-font-specification:'Forte, Normal';stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="35.42514"
+       y="469.93658"
+       id="text23124"><tspan
+         sodipodi:role="line"
+         id="tspan23122"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Forte, Normal';font-family:Forte;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.58329999px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="35.42514"
+         y="469.93658">Referencias</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.9375px;line-height:1.25;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="36.532169"
+       y="479.89993"
+       id="text23640"><tspan
+         sodipodi:role="line"
+         id="tspan23638"
+         style="stroke-width:0.264583;-inkscape-font-specification:'3ds, Normal';font-family:'3ds';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.93749997px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="36.532169"
+         y="479.89993">Recio, F. (2012). Química inorgánica (5.a ed., Vol. 1). McGraw-Hill Education.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.9375px;line-height:1.25;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="35.978653"
+       y="491.52377"
+       id="text25688"><tspan
+         sodipodi:role="line"
+         id="tspan25686"
+         style="stroke-width:0.264583;-inkscape-font-specification:'3ds, Normal';font-family:'3ds';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.93749997px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="35.978653"
+         y="491.52377">Williams, R. C. (2002). Química (7.a ed., Vol. 1). McGraw-Hill Interamericana editores.</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:0.4;fill-rule:evenodd;stroke-width:0.248687;stroke-linecap:round;paint-order:stroke markers fill"
+       id="rect265"
+       width="323.08575"
+       height="35.978653"
+       x="27.290993"
+       y="461.63382"
+       ry="5.0939169" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="35.42514"
+       y="469.93658"
+       id="text269"><tspan
+         sodipodi:role="line"
+         id="tspan267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="35.42514"
+         y="469.93658">Referencias</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;line-height:1.25;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"
+       x="36.532169"
+       y="479.89993"
+       id="text273"><tspan
+         sodipodi:role="line"
+         id="tspan271"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"
+         x="36.532169"
+         y="479.89993">Recio, F. (2012). Química inorgánica (5.a ed., Vol. 1). McGraw-Hill Education.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;line-height:1.25;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"
+       x="35.978653"
+       y="491.52377"
+       id="text277"><tspan
+         sodipodi:role="line"
+         id="tspan275"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;font-family:'3ds';-inkscape-font-specification:'3ds, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#aaeeff"
+         x="35.978653"
+         y="491.52377">Williams, R. C. (2002). Química (7.a ed., Vol. 1). McGraw-Hill Interamericana editores.</tspan></text>
   </g>
 </svg>
