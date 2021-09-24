@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 1,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Alcohol metilico",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Metanol",
+    "usos"                 : "Combustible, tintes y resinas, biocombustible, deshumidificante, solvente industrial, anticongelante en vehículos.",
+    "ficha de seguridad"   : "Provoca daños al sistema nervioso central, órganos visuales, toxicidad sistémica. ",
+    "dato interesante"     : ""
+}

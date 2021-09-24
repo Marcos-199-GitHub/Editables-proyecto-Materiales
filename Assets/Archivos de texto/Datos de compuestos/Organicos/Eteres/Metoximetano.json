@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 2,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 6,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Dimetiléter",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Metoximetano",
+    "usos"                 : "Medicina, pulverizadores, combustible de automoción.",
+    "ficha de seguridad"   : "Tos, dolor de garganta, confusión mental, somnolencia, pérdida del conocimiento.",
+    "dato interesante"     : ""
+}

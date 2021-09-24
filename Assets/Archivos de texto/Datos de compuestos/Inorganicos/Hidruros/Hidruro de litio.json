@@ -1,0 +1,22 @@
+{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Li",
+            "cantidad" : 1,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Anion",
+            "simbolo"  : "H",
+            "cantidad" : 1,
+            "carga"    : -1
+        }
+    ],
+    "nomenclatura_clasica" : "Hidruro lítico",
+    "nomenclatura_stock"   : "Hidruro de litio (I)",
+    "nomenclatura_IUPAC"   : "Hidruro de litio",
+    "usos"                 : "Refrigerante, agente desecante, fabricado de cerámicas y generador de hidrógeno.",
+    "ficha_de_seguridad"   : "Es muy reactivo frente a diversos elementos como el aire, agua y agentes oxidantes.",
+    "dato_interesante"     : ""
+}

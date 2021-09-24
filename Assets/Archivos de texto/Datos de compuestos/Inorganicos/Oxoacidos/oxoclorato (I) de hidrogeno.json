@@ -1,0 +1,28 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Hidrógeno",
+            "simbolo"  : "H",
+            "cantidad" : 1,
+            "carga"    :  1
+        },
+        {
+            "etiqueta": "No metal",
+            "simbolo"  : "Cl",
+            "cantidad" : 1,
+            "carga"    : 1
+        },
+        {
+            "etiqueta": "Oxígeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+  "nomenclatura clasica": "Ácido hipocloroso",
+  "nomenclatura stock": "ácido oxoclórico (I)",
+  "nomenclatura IUPAC": "oxoclorato (I) de hidrógeno",
+  "usos": "Es un gran desinfectante, limpia exposiciones óseas, control de infecciones cutáneas y Cuidado de heridas por quemaduras.",
+  "ficha de seguridad": "Efectos adversos fisicoquímicos, sobre la salud humana y el medio ambiente",
+  "dato interesante": ""
+}

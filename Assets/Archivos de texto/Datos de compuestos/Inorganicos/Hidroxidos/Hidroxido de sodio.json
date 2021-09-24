@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Na",
+            "cantidad" : 1,
+            "carga"    :  1
+        },
+        {
+            "etiqueta": "Anión",
+            "simbolo"  : "OH",
+            "cantidad" : 1,
+            "carga"    : -1
+        }
+    ],
+  "nomenclatura_clasica": "Hidróxido sódico",
+  "nomenclatura_stock": "Hidróxido de sodio (I)",
+  "nomenclatura_IUPAC": "Hidróxido de sodio",
+  "usos": "Productos de limpieza, farmacéuticos, medicinales   y procesos energéticos.",
+  "ficha_de_seguridad": "La ingestión de hidróxido de sodio sólido o líquido puede producir vómitos, dolor del pecho y del abdomen y dificultad para tragar. La lesión corrosiva de la boca, garganta, esófago y estómago ocurre muy rápidamente y puede causar perforación y hemorragia.",
+  "dato_interesante": ""
+}

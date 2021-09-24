@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Al",
+            "cantidad" : 2,
+            "carga"    :  3
+        },
+        {
+            "etiqueta": "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 3,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura_clasica": "Óxido alumínico",
+  "nomenclatura_stock": "Óxido de aluminio (II)",
+  "nomenclatura_IUPAC": "Trióxido de dialuminio",
+  "usos": "Se usa como aislante térmico, dispositivo refractario y proporciona dureza a esmaltes y cerámicas.",
+  "ficha_de_seguridad": "Polvo blanco de elevada dureza y resistencia media. Está en la naturaleza de forma de corindón y de esmeril.",
+  "dato_interesante": ""
+}

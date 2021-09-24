@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 3,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 9,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Nitrogeno",
+            "simbolo"  : "N",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "--------",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Trimetilamina",
+    "usos"                 : "Reguladores del crecimiento de plantas, resinas de intercambio fuertemente básicas, y como agentes aparejadores para el teñido.",
+    "ficha de seguridad"   : "Sensación de quemazón. Tos. Dolor de cabeza. Dolor de garganta. Dificultad respiratoria. Jadeo. Síntomas no inmediatos",
+    "dato interesante"     : ""
+}

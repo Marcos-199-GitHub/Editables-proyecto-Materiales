@@ -1,0 +1,22 @@
+{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Hidrógeno",
+            "simbolo"  : "H",
+            "cantidad" : 2,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "No metal",
+            "simbolo"  : "S",
+            "cantidad" : 1,
+            "carga"    : -2
+        }
+    ],
+    "nomenclatura clasica" : "ácido sulfhídrico",
+    "nomenclatura stock"   : "sulfuro de hidrógeno",
+    "nomenclatura IUPAC"   : "sulfuro de hidrógeno",
+    "usos"                 : "Como reactivo, industria química y para la obtención de sulfuro puro.",
+    "ficha de seguridad"   : "Un gas incoloro de olor característico a huevos podridos. Como veneno, ataca y paraliza el sistema nervioso y bloquea la respiración celular. En altas concentraciones, una sola inhalación resulta mortal.",
+    "dato interesante"     : "Si detecta olor a huevos podridos en su barrio o cerca de casa, es probable que se trate de sulfuro de hidrógeno (H2S). El H2S se genera en plantas de tratamiento de aguas residuales y sistemas de alcantarillado. También conocido como gas alcantarilla, resulta extremadamente tóxico para los humanos."
+}

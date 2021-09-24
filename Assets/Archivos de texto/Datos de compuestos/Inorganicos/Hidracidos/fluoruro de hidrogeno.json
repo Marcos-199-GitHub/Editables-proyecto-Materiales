@@ -1,0 +1,22 @@
+{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Hidrógeno",
+            "simbolo"  : "H",
+            "cantidad" : 1,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "No metal",
+            "simbolo"  : "F",
+            "cantidad" : 1,
+            "carga"    : -1
+        }
+    ],
+    "nomenclatura clasica" : "ácido fluorhídrico",
+    "nomenclatura stock"   : "fluoruro de hidrógeno",
+    "nomenclatura IUPAC"   : "fluoruro de hidrógeno",
+    "usos"                 : "Aerosoles, solventes, fluorocarbonos y refrigerantes.",
+    "ficha de seguridad"   : "genera gases muy fuertes y es fácilmente disoluble en agua en sus diversos estados, ya sea gas o líquido.",
+    "dato interesante"     : ""
+}

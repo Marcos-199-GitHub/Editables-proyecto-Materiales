@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Cl",
+            "cantidad" : 2,
+            "carga"    :  1
+        },
+        {
+            "etiqueta": "Anion",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura_clasica": "Anhídrido hipocloroso",
+  "nomenclatura_stock": "Anhídrido de cloro (I)",
+  "nomenclatura_IUPAC": "Monóxido de dicloro",
+  "usos": "Se utiliza para la producción de ácido sulfúrico. En la industria alimentaria, se utiliza como solvente y reactivo.",
+  "ficha_de_seguridad": "Irrita ojos, piel, boca y garganta, puede dañar material genético. Contaminante más común, contribuye a la lluvia ácida.",
+  "dato_interesante": "Se empezó a usar desde la primera guerra mundial como un agente desinfectante de heridas en los soldados."
+}

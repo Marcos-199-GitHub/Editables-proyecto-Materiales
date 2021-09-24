@@ -1,0 +1,22 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 8,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Isobutileno",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "2-Metilpropeno",
+    "usos"                 : "Sistemas de refrigeración y como propelente, en sustitución de los clorofluorocarbonos.",
+    "ficha de seguridad"   : "Producto extremadamente inflamable por calor, chispas, electricidad estática o llamas. El vapor, más pesado que el aire, puede desplazarse hasta fuentes de ignición alejadas",
+    "dato interesante"     : ""
+}

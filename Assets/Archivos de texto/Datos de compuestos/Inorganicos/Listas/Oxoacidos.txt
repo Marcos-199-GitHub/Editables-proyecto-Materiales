@@ -1,0 +1,4 @@
+oxoclorato (I) de hidrogeno.json
+tetraoxofosfato (V) de hidrogeno.json
+tetraoxosulfato (VI) de hidrogeno.json
+trioxocarbonato (IV) de hidrogeno.json

@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 2,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 6,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Alcoho etilico",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Etanol",
+    "usos"                 : "Cosméticos, desinfectante, medicamentos, anticongelante, industria química.",
+    "ficha de seguridad"   : "Líquido y vapores muy inflamables, provoca irritación ocular grave.",
+    "dato interesante"     : ""
+}

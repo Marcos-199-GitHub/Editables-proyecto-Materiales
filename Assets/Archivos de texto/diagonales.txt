@@ -1,0 +1,7 @@
+﻿s
+s, p, 
+s, p, d
+s, p, d, f
+s, p, d, f
+s, p, d
+s, p, 

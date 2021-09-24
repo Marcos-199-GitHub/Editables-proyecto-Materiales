@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 1,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 5,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Nitrogeno",
+            "simbolo"  : "N",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "--------",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Metilamina",
+    "usos"                 : "Pesticidas, disolvente, reveladores fotográficos, productos farmacéuticos.",
+    "ficha de seguridad"   : "Sensación de quemazón. Tos. Dolor de cabeza. Dificultad respiratoria. Jadeo. Dolor de garganta.",
+    "dato interesante"     : ""
+}

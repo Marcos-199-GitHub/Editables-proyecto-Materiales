@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 3,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 8,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Etil metil éter",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Metoxietano",
+    "usos"                 : "Se emplea mayormente en experiencias de laboratorio para investigaciones científicas.",
+    "ficha de seguridad"   : "",
+    "dato interesante"     : ""
+}

@@ -1,0 +1,4 @@
+Monocloruro de potasio.json
+Dicloruro de calcio.json
+Dicloruro de hierro.json
+Monocloruro de sodio.json

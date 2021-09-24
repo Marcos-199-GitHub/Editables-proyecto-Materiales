@@ -1,0 +1,4 @@
+bromuro de hidrogeno.json
+cloruro de hidrogeno.json
+fluoruro de hidrogeno.json
+sulfuro de hidrogeno.json

@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "K",
+            "cantidad" : 1,
+            "carga"    :  -1
+        },
+        {
+            "etiqueta": "No metal",
+            "simbolo"  : "Cl",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+  "nomenclatura_clasica": "Cloruro potásico",
+  "nomenclatura_stock": "Cloruro de potasio",
+  "nomenclatura_IUPAC": "Monocloruro de potasio",
+  "usos": "Se ocupa en medicina, construcción, industria alimentaria, farmacéutica, suplementos minerales y nutritivos. ",
+  "ficha_de_seguridad": "Compuesto inorgánico en forma de cristales blancos e incoloros altamente soluble en agua. Ropa de protección adecuada, guantes, gafas de seguridad o visores y máscara de protección respiratoria en caso de alta concentración de polvo.",
+  "dato_interesante": ""
+}

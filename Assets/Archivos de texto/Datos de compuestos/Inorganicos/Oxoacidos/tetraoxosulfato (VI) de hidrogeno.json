@@ -1,0 +1,28 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Hidrógeno",
+            "simbolo"  : "H",
+            "cantidad" : 2,
+            "carga"    :  1
+        },
+        {
+            "etiqueta": "No metal",
+            "simbolo"  : "S",
+            "cantidad" : 1,
+            "carga"    : 6
+        },
+        {
+            "etiqueta": "Oxígeno",
+            "simbolo"  : "O",
+            "cantidad" : 4,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura clasica": "Ácido sulfúrico",
+  "nomenclatura stock": "ácido tetraoxosulfúrico (VI)",
+  "nomenclatura IUPAC": "tetraoxosulfato (VI) de hidrógeno",
+  "usos": "Fertilizante, industria petroquímica, explosivos, detergentes, industria de madera y papel, tratamiento de pieles, baterías e industria química.",
+  "ficha de seguridad": "Es un líquido viscoso, incoloro y corrosivo. Puede causar daño en riñones y pulmones. Peligro de cáncer. Fatal si se inhala. Causa severas irritaciones en los ojos, boca, tracto respiratorio y digestivo. ",
+  "dato interesante": ""
+}

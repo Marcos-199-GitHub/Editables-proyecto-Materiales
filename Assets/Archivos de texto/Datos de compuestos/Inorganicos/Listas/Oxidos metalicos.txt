@@ -1,0 +1,4 @@
+Monoxido de hierro.json
+Monoxido de calcio.json
+Monoxido de disodio.json
+Trioxido de dialuminio.json

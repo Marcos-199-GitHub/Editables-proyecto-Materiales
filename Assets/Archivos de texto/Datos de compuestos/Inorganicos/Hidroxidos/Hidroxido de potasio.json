@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "K",
+            "cantidad" : 1,
+            "carga"    :  1
+        },
+        {
+            "etiqueta": "Anión",
+            "simbolo"  : "OH",
+            "cantidad" : 1,
+            "carga"    : -1
+        }
+    ],
+  "nomenclatura_clasica": "Hidróxido potásico",
+  "nomenclatura_stock": "Hidróxido de potasio (I)",
+  "nomenclatura_IUPAC": "Hidróxido de potasio",
+  "usos": "Industria química, farmacéutica, cosmética, alimentos y aplicaciones médicas. Uso común.",
+  "ficha_de_seguridad": "Desconocida hasta el momento",
+  "dato_interesante": "Es especialmente significativo por ser el precursor de la mayoría de jabones suaves y líquidos"
+}

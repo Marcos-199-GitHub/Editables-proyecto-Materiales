@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Ca",
+            "cantidad" : 1,
+            "carga"    :  -2
+        },
+        {
+            "etiqueta": "No metal",
+            "simbolo"  : "Cl",
+            "cantidad" : 2,
+            "carga"    : 1
+        }
+    ],
+  "nomenclatura_clasica": "Cloruro cálcico",
+  "nomenclatura_stock": "Cloruro de calcio",
+  "nomenclatura_IUPAC": "Dicloruro de calcio",
+  "usos": "Se utiliza en industria de petróleo, alimentación, industria farmacéutica y en la industria del cemento.",
+  "ficha_de_seguridad": "Sólido cristalino de color blanco, es una sal neutra.",
+  "dato_interesante": ""
+}

@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Ca",
+            "cantidad" : 1,
+            "carga"    :  2
+        },
+        {
+            "etiqueta": "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : -2
+        }
+    ],
+  "nomenclatura_clasica": "Óxido cálcico ",
+  "nomenclatura_stock": "Óxido de calcio (II)",
+  "nomenclatura_IUPAC": "Monóxido de calcio",
+  "usos": "Se ocupa en la depuración de gases, tratamiento de agua, industria del papel, elaboración de jabón, fundición de elementos químicos. ",
+  "ficha_de_seguridad": "Es irritante para la piel y vías respiratorias, y representa un daño ocular en caso de entrar en contacto con los ojos.",
+  "dato_interesante": "Es la famosa cal"
+}

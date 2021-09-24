@@ -1,0 +1,28 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 2,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Acetaldehído",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Etanal",
+    "usos"                 : "Curtición del cuero, conservante de carnes, industria del caucho y del papel, síntesis de plásticos, pinturas y lacas.",
+    "ficha de seguridad"   : "Provoca irritación ocular grave, se sospecha que provoca defectos genéticos, puede provocar cáncer",
+    "dato interesante"     : ""
+}

@@ -1,0 +1,22 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 3,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 8,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "--------",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Propano",
+    "usos"                 : "Combustible, gas refrigerante, síntesis del propeno.",
+    "ficha de seguridad"   : "La exposición a altas concentraciones de este gas puede causar dolor de cabeza, zumbido en los oídos, vértigo, somnolencia, pérdida del conocimiento, nausea, vómito y depresión en todos los sentidos. En algunas circunstancias puede conducir a la muerte.",
+    "dato interesante"     : ""
+}

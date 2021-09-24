@@ -1,0 +1,22 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 2,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 2,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "Acetileno",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "Etino",
+    "usos"                 : "Equipos de soldadura, producción de ácido acético, fabricación de cloroetileno para plásticos, fabricación de neoprenos de caucho sintético.",
+    "ficha de seguridad"   : "Los síntomas tales como dolores de cabeza, mareos, falta de respiración y pérdida del conocimiento pueden ocurrir si el acetileno está presente en el aire en cantidades suficientes para diluir la concentración de oxígeno",
+    "dato interesante"     : ""
+}

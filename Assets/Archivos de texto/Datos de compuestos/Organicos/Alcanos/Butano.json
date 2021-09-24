@@ -1,0 +1,22 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 10,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura_clasica" : "--------",
+    "nomenclatura_stock"   : "--------",
+    "nomenclatura_IUPAC"   : "Butano",
+    "usos"                 : "Combustible en el hogar, Calentamiento de aguas, Quemador de gas.",
+    "ficha_de_seguridad"   : "Puede ocasionar cefalea, vértigo y náuseas, por inhalación. En contacto con la piel, puede ocasionar irritación leve y conjuntivitis leve, inflamación de párpados y lagrimeo en contacto ocular.",
+    "dato_interesante"     : ""
+}

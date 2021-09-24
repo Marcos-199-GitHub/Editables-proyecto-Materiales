@@ -1,0 +1,22 @@
+{
+  "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Na",
+            "cantidad" : 1,
+            "carga"    :  1
+        },
+        {
+            "etiqueta": "Ión",
+            "simbolo"  : "HCO",
+            "cantidad" : 3,
+            "carga"    : -1
+        }
+    ],
+  "nomenclatura clasica": "Bicarbonato de sódico",
+  "nomenclatura stock": "Bicarbonato de sodio (I)",
+  "nomenclatura IUPAC": "Trioxocarbonato (IV) de sodio",
+  "usos": "Ayuda contra la acidez estomacal y la indigestión ácida. Se usa para disminuir los niveles de acidez en la sangre u orina.",
+  "ficha de seguridad": "Es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio.",
+  "dato interesante": ""
+}

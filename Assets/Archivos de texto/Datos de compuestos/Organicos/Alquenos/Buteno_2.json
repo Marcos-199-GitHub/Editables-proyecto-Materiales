@@ -1,0 +1,22 @@
+﻿{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 4,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 8,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica" : "--------",
+    "nomenclatura stock"   : "--------",
+    "nomenclatura IUPAC"   : "2-Buteno",
+    "usos"                 : "Pueden emplearse como solventes orgánicos, sirven como aditivos para elevar el nivel de octanaje de la gasolina.",
+    "ficha de seguridad"   : "Al producirse pérdidas en zonas confinadas, esta sustancia puede originar asfixia por disminución del contenido de oxígeno en el aire.",
+    "dato interesante"     : ""
+}

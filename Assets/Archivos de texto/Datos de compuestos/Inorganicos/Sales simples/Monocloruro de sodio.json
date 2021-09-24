@@ -1,0 +1,22 @@
+{
+    "formula_quimica"      : [
+        {
+            "etiqueta" : "Metal",
+            "simbolo"  : "Na",
+            "cantidad" : 1,
+            "carga"    : -1
+        },
+        {
+            "etiqueta" : "No metal",
+            "simbolo"  : "Cl",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura_clasica" : "Cloruro sódico",
+    "nomenclatura_stock"   : "Cloruro de sodio",
+    "nomenclatura_IUPAC"   : "Monocloruro de sodio",
+    "usos"                 : "Se utiliza en la alimentación, fabricación de plásticos, extintores de incendios, hormigón, productos para piscinas y par deshielo.",
+    "ficha_de_seguridad"   : "Es la sal común, es un sólido incoloro cristalino soluble en agua.",
+    "dato_interesante"     : ""
+}
