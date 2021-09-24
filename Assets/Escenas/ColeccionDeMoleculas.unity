@@ -123,6 +123,68 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &560016354
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1166295529}
+    m_Modifications:
+    - target: {fileID: 419261582878732278, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_Name
+      value: cloruro de hidrogeno
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -125
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+--- !u!4 &560016355 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 419261582878732279, guid: 08d8f921a5b02ad4992412179877d8ec, type: 3}
+  m_PrefabInstance: {fileID: 560016354}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -216,6 +278,68 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1001 &868039118
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1166295529}
+    m_Modifications:
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7827651143169578137, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+      propertyPath: m_Name
+      value: sulfuro de hidrogeno
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+--- !u!4 &868039119 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7827651143169578136, guid: 32a5b0ece4bf00f4bb399fd9bcbdd2e2, type: 3}
+  m_PrefabInstance: {fileID: 868039118}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -298,4 +422,223 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1150961622
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1166295529}
+    m_Modifications:
+    - target: {fileID: 8113656279301192464, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_Name
+      value: "Bromuro de hidr\xF3geno"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -133
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+--- !u!4 &1150961623 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8113656279301192467, guid: d9e54e6afc0d5f649b86b4a0547f21dd, type: 3}
+  m_PrefabInstance: {fileID: 1150961622}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1166295528
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1166295529}
+  m_Layer: 0
+  m_Name: Hidracidos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1166295529
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1166295528}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1150961623}
+  - {fileID: 560016355}
+  - {fileID: 1281446855}
+  - {fileID: 868039119}
+  m_Father: {fileID: 1566296821}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1281446854
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1166295529}
+    m_Modifications:
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2969790281572305883, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+      propertyPath: m_Name
+      value: fluoruro de hidrogeno
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+--- !u!4 &1281446855 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2969790281572305880, guid: 9959e427a0f9f684c8a91841788e64ce, type: 3}
+  m_PrefabInstance: {fileID: 1281446854}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1460634509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1460634510}
+  m_Layer: 0
+  m_Name: Organica
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1460634510
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1460634509}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1566296820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1566296821}
+  m_Layer: 0
+  m_Name: Inorganica
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1566296821
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1566296820}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1166295529}
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
