@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -19,10 +19,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura clasica" : "Etil metil éter",
-    "nomenclatura stock"   : "--------",
-    "nomenclatura IUPAC"   : "Metoxietano",
-    "usos"                 : "Se emplea mayormente en experiencias de laboratorio para investigaciones científicas.",
-    "ficha de seguridad"   : "",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "Etil metil éter",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Metoxietano",
+    "usos"                   : "Se emplea mayormente en experiencias de laboratorio para investigaciones científicas.",
+    "ficha de seguridad"     : "",
+    "url_ficha_de_seguridad" : "https://pubchem.ncbi.nlm.nih.gov/compound/Ethyl-methyl-ether#section=Safety-and-Hazards",
+    "dato interesante"       : ""
 }

@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -19,10 +19,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura clasica" : "--------",
-    "nomenclatura stock"   : "--------",
-    "nomenclatura IUPAC"   : "Butanodiona",
-    "usos"                 : "La butanona es utilizada como solvente en la elaboración de revestimientos de superficies, fabricación de polvo sin humo",
-    "ficha de seguridad"   : "La sustancia irrita gravemente los ojos. La sustancia irrita la piel y el tracto respiratorio. La sustancia puede afectar al sistema nervioso central, a los pulmones y al tracto respiratorio. La exposición a concentraciones altas podría causar disminución del estado de alerta.",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "--------",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Butanodiona",
+    "usos"                   : "La butanona es utilizada como solvente en la elaboración de revestimientos de superficies, fabricación de polvo sin humo",
+    "ficha de seguridad"     : "La sustancia irrita gravemente los ojos. La sustancia irrita la piel y el tracto respiratorio. La sustancia puede afectar al sistema nervioso central, a los pulmones y al tracto respiratorio. La exposición a concentraciones altas podría causar disminución del estado de alerta.",
+    "url_ficha_de_seguridad" : "https://www.ilo.org/dyn/icsc/showcard.display?p_lang=es&p_card_id=1168&p_version=2",
+    "dato interesante"       : ""
 }

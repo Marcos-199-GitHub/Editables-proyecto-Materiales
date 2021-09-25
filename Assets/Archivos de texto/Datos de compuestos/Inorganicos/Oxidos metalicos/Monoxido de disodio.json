@@ -1,22 +1,23 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "Na",
             "cantidad" : 2,
-            "carga"    :  1
+            "carga"    : 1
         },
         {
-            "etiqueta": "Oxigeno",
+            "etiqueta" : "Oxigeno",
             "simbolo"  : "O",
             "cantidad" : 1,
             "carga"    : -2
         }
     ],
-  "nomenclatura_clasica": "Óxido sódico",
-  "nomenclatura_stock": "Óxido de sodio (I)",
-  "nomenclatura_IUPAC": "Monóxido de disodio",
-  "usos": "Se ocupa en la elaboración de vidrios y realización de objetos o elementos son cerámica",
-  "ficha_de_seguridad": "Tiene una apariencia de color blanco y su punto de fusión es de 1132 grados C. Provoca graves quemaduras en la piel y lesiones oculares. Reacciona violentamente con ácidos y es corrosiva.",
-  "dato_interesante": ""
+    "nomenclatura_clasica"   : "Óxido sódico",
+    "nomenclatura_stock"     : "Óxido de sodio (I)",
+    "nomenclatura_IUPAC"     : "Monóxido de disodio",
+    "usos"                   : "Se ocupa en la elaboración de vidrios y realización de objetos o elementos son cerámica",
+    "ficha_de_seguridad"     : "Tiene una apariencia de color blanco y su punto de fusión es de 1132 grados C. Provoca graves quemaduras en la piel y lesiones oculares. Reacciona violentamente con ácidos y es corrosiva.",
+    "url_ficha_de_seguridad" : "https://www.fishersci.es/chemicalProductData_uk/wercs?itemCode=10724034&lang=ES",
+    "dato_interesante"       : ""
 }

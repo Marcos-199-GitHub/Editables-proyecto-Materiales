@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -19,10 +19,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura clasica" : "Formiato de etilo",
-    "nomenclatura stock"   : "--------",
-    "nomenclatura IUPAC"   : "Metanoato de etilo",
-    "usos"                 : "Solvente, fungicida, larvicida, saborizante, síntesis orgánicas.",
-    "ficha de seguridad"   : "Tos, jadeo, dolor de cabeza, somnolencia, enrrojecimiento",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "Formiato de etilo",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Metanoato de etilo",
+    "usos"                   : "Solvente, fungicida, larvicida, saborizante, síntesis orgánicas.",
+    "ficha de seguridad"     : "Tos, jadeo, dolor de cabeza, somnolencia, enrrojecimiento",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-3574-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyNjk3MTF8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oNGEvaGYyLzkwMDM3MzI3NjI2NTQucGRmfGE0ZTgwYzQyNTZhNjM0YjFmZWY4ZWY3NThhMGYwYTNiZjUwYmZmZGY5MDc3OTg4NDg2NjJkNTNmZGVjNTE3MjM",
+    "dato interesante"       : ""
 }

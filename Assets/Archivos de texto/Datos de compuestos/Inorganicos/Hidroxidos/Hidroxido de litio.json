@@ -1,22 +1,23 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "Li",
             "cantidad" : 1,
-            "carga"    :  1
+            "carga"    : 1
         },
         {
-            "etiqueta": "Anión",
+            "etiqueta" : "Anión",
             "simbolo"  : "OH",
             "cantidad" : 1,
             "carga"    : -1
         }
     ],
-  "nomenclatura_clasica": "Hidróxido de litio",
-  "nomenclatura_stock": "Hidróxido de litio (I)",
-  "nomenclatura_IUPAC": "Hidróxido de litio",
-  "usos": "Fabricación de jabones esteáricos ",
-  "ficha_de_seguridad": "La inhalación puede edema pulmonar y es corrosivo con la piel y ojos. Protección personal: traje de protección química, incluyendo equipo autónomo de respiración. " ,
-  "dato_interesante": ""
+    "nomenclatura_clasica"   : "Hidróxido de litio",
+    "nomenclatura_stock"     : "Hidróxido de litio (I)",
+    "nomenclatura_IUPAC"     : "Hidróxido de litio",
+    "usos"                   : "Fabricación de jabones esteáricos ",
+    "ficha_de_seguridad"     : "La inhalación puede edema pulmonar y es corrosivo con la piel y ojos. Protección personal: traje de protección química, incluyendo equipo autónomo de respiración. ",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-3997-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzMDM3MDV8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oZGYvaDhhLzkwMzczNDI5MzMwMjIucGRmfDUxNjUxZTRjOGNjZTZlYWE4MGYwZTY0NzI2NDNlMDRmMTM0ZmIwMzhiZDg5OWFjMDEzZmVhMGFjODFiYmMxMmE",
+    "dato_interesante"       : ""
 }

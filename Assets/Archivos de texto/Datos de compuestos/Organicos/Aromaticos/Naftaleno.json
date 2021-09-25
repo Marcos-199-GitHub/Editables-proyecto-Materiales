@@ -1,0 +1,23 @@
+﻿{
+    "formula_quimica"        : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 10,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 8,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica"   : "Naftalina",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Naftaleno",
+    "usos"                   : "Colorantes, resinas sintéticas, repelente de polillas, manufactura de plásticos.",
+    "ficha de seguridad"     : "",
+    "url_ficha_de_seguridad" : "https://www.ilo.org/dyn/icsc/showcard.display?p_lang=es&p_card_id=0667&p_version=2",
+    "dato interesante"       : ""
+}

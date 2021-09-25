@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -19,10 +19,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura clasica" : "Alcohol sec-butílico",
-    "nomenclatura stock"   : "--------",
-    "nomenclatura IUPAC"   : "2-Butanol",
-    "usos"                 : "Industria de pinturas, industria de colorantes, fabricación de explosivos, fabricación de cueros artificiales.",
-    "ficha de seguridad"   : "Provoca irritación cutánea, puede irritar las vías respiratorias, puede provocar somnolencia o vértigo",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "Alcohol sec-butílico",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "2-Butanol",
+    "usos"                   : "Industria de pinturas, industria de colorantes, fabricación de explosivos, fabricación de cueros artificiales.",
+    "ficha de seguridad"     : "Provoca irritación cutánea, puede irritar las vías respiratorias, puede provocar somnolencia o vértigo",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-6336-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzNTg3Njl8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oMTEvaGU1Lzg5MTQ0NDM1OTk5MDIucGRmfGE0MGY1MmQwNDRmZmRhZGIwYTVmMjE5MGQ5ZTA3YzYzNjA0MTUxZGU5M2UzY2FjOWZkMzE1YjA1ZGRjYTZlMGQ",
+    "dato interesante"       : ""
 }

@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -13,10 +13,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura_clasica" : "Metano",
-    "nomenclatura_stock"   : "--------",
-    "nomenclatura_IUPAC"   : "Tetrahidruro de carbono",
-    "usos"                 : "Procesos industriales. Combustible: utilizado para la generación eléctrica. Industria química: para la producción de hidrógeno, metano y ácido acético.",
-    "ficha_de_seguridad"   : "Puede provocar quemaduras en ignición, puede provocar mezclas explosivas en el aire, puede llegar a ser asfixiante en un lugar cerrado.",
-    "dato_interesante"     : ""
+    "nomenclatura_clasica"   : "Metano",
+    "nomenclatura_stock"     : "--------",
+    "nomenclatura_IUPAC"     : "Tetrahidruro de carbono",
+    "usos"                   : "Procesos industriales. Combustible: utilizado para la generación eléctrica. Industria química: para la producción de hidrógeno, metano y ácido acético.",
+    "ficha_de_seguridad"     : "Puede provocar quemaduras en ignición, puede provocar mezclas explosivas en el aire, puede llegar a ser asfixiante en un lugar cerrado.",
+    "url_ficha_de_seguridad" : "https://www.linde.mx/-/media/corporate/praxair-mexico/documents/safety-data-sheets/metano-hds-p4618f-2009.pdf",
+    "dato_interesante"       : ""
 }

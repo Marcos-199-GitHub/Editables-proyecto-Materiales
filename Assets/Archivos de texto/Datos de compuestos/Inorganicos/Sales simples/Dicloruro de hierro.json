@@ -1,22 +1,23 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "Cl",
             "cantidad" : 2,
-            "carga"    :  -1
+            "carga"    : -1
         },
         {
-            "etiqueta": "No metal",
+            "etiqueta" : "No metal",
             "simbolo"  : "Fe",
             "cantidad" : 1,
             "carga"    : 2
         }
     ],
-  "nomenclatura_clasica": "Cloruro ferroso",
-  "nomenclatura_stock": "Cloruro de hierro (II)",
-  "nomenclatura_IUPAC": "Dicloruro de hierro",
-  "usos": "Se utiliza en la industria farmacéutica, en las sustancias para fijar colores y como agente reductor.",
-  "ficha_de_seguridad": "Compuesto de color blanco verdoso que se encuentra presente en el mineral lawrencita.",
-  "dato_interesante": ""
+    "nomenclatura_clasica"   : "Cloruro ferroso",
+    "nomenclatura_stock"     : "Cloruro de hierro (II)",
+    "nomenclatura_IUPAC"     : "Dicloruro de hierro",
+    "usos"                   : "Se utiliza en la industria farmacéutica, en las sustancias para fijar colores y como agente reductor.",
+    "ficha_de_seguridad"     : "Compuesto de color blanco verdoso que se encuentra presente en el mineral lawrencita.",
+    "url_ficha_de_seguridad" : "https://www.ecosmep.com/cabecera/upload/fichas/6239.pdf",
+    "dato_interesante"       : ""
 }

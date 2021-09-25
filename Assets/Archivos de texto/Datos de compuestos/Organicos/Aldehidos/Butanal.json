@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -19,10 +19,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura clasica" : "Butiraldehído",
-    "nomenclatura stock"   : "--------",
-    "nomenclatura IUPAC"   : "Butanal",
-    "usos"                 : "Medicamentos, aditivos de plástico, disolvente industrial, condimento alimentario.",
-    "ficha de seguridad"   : "Líquido y vapores muy inflamables, puede ser nocivo en caso de ingestión o en contacto con la piel, provoca irritación ocular grave",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "Butiraldehído",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Butanal",
+    "usos"                   : "Medicamentos, aditivos de plástico, disolvente industrial, condimento alimentario.",
+    "ficha de seguridad"     : "Líquido y vapores muy inflamables, puede ser nocivo en caso de ingestión o en contacto con la piel, provoca irritación ocular grave",
+    "url_ficha_de_seguridad" : "https://www.ilo.org/dyn/icsc/showcard.display?p_lang=es&p_card_id=0403&p_version=2",
+    "dato interesante"       : ""
 }

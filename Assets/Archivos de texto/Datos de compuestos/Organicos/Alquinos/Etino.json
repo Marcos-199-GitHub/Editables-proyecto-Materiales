@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -13,10 +13,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura clasica" : "Acetileno",
-    "nomenclatura stock"   : "--------",
-    "nomenclatura IUPAC"   : "Etino",
-    "usos"                 : "Equipos de soldadura, producción de ácido acético, fabricación de cloroetileno para plásticos, fabricación de neoprenos de caucho sintético.",
-    "ficha de seguridad"   : "Los síntomas tales como dolores de cabeza, mareos, falta de respiración y pérdida del conocimiento pueden ocurrir si el acetileno está presente en el aire en cantidades suficientes para diluir la concentración de oxígeno",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "Acetileno",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Etino",
+    "usos"                   : "Equipos de soldadura, producción de ácido acético, fabricación de cloroetileno para plásticos, fabricación de neoprenos de caucho sintético.",
+    "ficha de seguridad"     : "Los síntomas tales como dolores de cabeza, mareos, falta de respiración y pérdida del conocimiento pueden ocurrir si el acetileno está presente en el aire en cantidades suficientes para diluir la concentración de oxígeno",
+    "url_ficha_de_seguridad" : "https://www.javeriana.edu.co/documents/4486808/5015300/ACETILENO+_INFRA+2011.pdf/617a2f20-2dd6-48d5-839c-24aa70a4a92c?version=1.0",
+    "dato interesante"       : ""
 }

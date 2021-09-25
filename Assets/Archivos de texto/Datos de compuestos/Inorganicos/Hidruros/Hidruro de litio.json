@@ -1,5 +1,5 @@
 {
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "Li",
@@ -13,10 +13,11 @@
             "carga"    : -1
         }
     ],
-    "nomenclatura_clasica" : "Hidruro lítico",
-    "nomenclatura_stock"   : "Hidruro de litio (I)",
-    "nomenclatura_IUPAC"   : "Hidruro de litio",
-    "usos"                 : "Refrigerante, agente desecante, fabricado de cerámicas y generador de hidrógeno.",
-    "ficha_de_seguridad"   : "Es muy reactivo frente a diversos elementos como el aire, agua y agentes oxidantes.",
-    "dato_interesante"     : ""
+    "nomenclatura_clasica"   : "Hidruro lítico",
+    "nomenclatura_stock"     : "Hidruro de litio (I)",
+    "nomenclatura_IUPAC"     : "Hidruro de litio",
+    "usos"                   : "Refrigerante, agente desecante, fabricado de cerámicas y generador de hidrógeno.",
+    "ficha_de_seguridad"     : "Es muy reactivo frente a diversos elementos como el aire, agua y agentes oxidantes.",
+    "url_ficha_de_seguridad" : "https://www.ilo.org/dyn/icsc/showcard.display?p_lang=es&p_card_id=0813&p_version=2",
+    "dato_interesante"       : ""
 }

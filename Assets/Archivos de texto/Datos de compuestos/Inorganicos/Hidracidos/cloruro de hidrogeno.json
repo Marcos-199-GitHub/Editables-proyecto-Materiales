@@ -1,5 +1,5 @@
 {
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Hidrógeno",
             "simbolo"  : "H",
@@ -13,10 +13,11 @@
             "carga"    : -1
         }
     ],
-    "nomenclatura clasica" : "ácido clorhídrico",
-    "nomenclatura stock"   : "cloruro de hidrógeno",
-    "nomenclatura IUPAC"   : "cloruro de hidrógeno",
-    "usos"                 : "Curtir cuero y se ocupa en la industria manufacturera en la limpieza y tratamiento para galvanizar metal",
-    "ficha de seguridad"   : "Gas fumante incoloro. Es un compuesto tóxico, corrosivo, con un fuerte olor picante. Sus vapores son irritantes a los ojos y membranas mucosas. Para manipulación usar lentes de seguridad y, si es necesario, guantes de neopreno, viton o hule butílico, utilizar un equipo de respiración autónoma sin partes de aluminio.",
-    "dato interesante"     : "Está presente en el sistema digestivo de muchos mamíferos, un exceso provoca úlceras gástricas."
+    "nomenclatura clasica"   : "ácido clorhídrico",
+    "nomenclatura stock"     : "cloruro de hidrógeno",
+    "nomenclatura IUPAC"     : "cloruro de hidrógeno",
+    "usos"                   : "Curtir cuero y se ocupa en la industria manufacturera en la limpieza y tratamiento para galvanizar metal",
+    "ficha de seguridad"     : "Gas fumante incoloro. Es un compuesto tóxico, corrosivo, con un fuerte olor picante. Sus vapores son irritantes a los ojos y membranas mucosas. Para manipulación usar lentes de seguridad y, si es necesario, guantes de neopreno, viton o hule butílico, utilizar un equipo de respiración autónoma sin partes de aluminio.",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-K025-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzMTA5ODB8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oYjIvaDg5LzkwMzkyMTE0NjI2ODYucGRmfGQ5M2JjZjQ5MmFhMDNiNWNiYjQxN2M3MDQ4ZjExODAzMDBmZDM0OGNiOTIzMjViMzUyOWQyZDU3NDAzZGJiOTc",
+    "dato interesante"       : "Está presente en el sistema digestivo de muchos mamíferos, un exceso provoca úlceras gástricas."
 }

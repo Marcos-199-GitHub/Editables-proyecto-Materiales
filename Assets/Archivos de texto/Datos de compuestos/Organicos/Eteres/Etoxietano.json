@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -19,10 +19,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura clasica" : "Dietileter",
-    "nomenclatura stock"   : "--------",
-    "nomenclatura IUPAC"   : "Etoxietano",
-    "usos"                 : "Disolvente, anestésico, reacciones orgánicas, extracción de principios activos de tejidos de plantas y animales.",
-    "ficha de seguridad"   : "Tos, dolor de garganta, somnolencia, vómitos, dolor de cabeza, dificultad respiratoria, pérdida del conocimiento.",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "Dietileter",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Etoxietano",
+    "usos"                   : "Disolvente, anestésico, reacciones orgánicas, extracción de principios activos de tejidos de plantas y animales.",
+    "ficha de seguridad"     : "Tos, dolor de garganta, somnolencia, vómitos, dolor de cabeza, dificultad respiratoria, pérdida del conocimiento.",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-5920-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyODg5NDh8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oMDUvaDUxLzg5ODA5NjU3NTI4NjIucGRmfGI3YTYzOWE1NDRmMzI1MDMyZGQ0MWZhNDhiY2M4MTY1NjM4YmQ2YzFjYWZmNDVjZDY4ZjZmMjYwOTI2MjcyMWM",
+    "dato interesante"       : ""
 }

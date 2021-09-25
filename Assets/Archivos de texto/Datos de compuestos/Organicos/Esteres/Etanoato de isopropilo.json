@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -19,10 +19,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura clasica" : "Acetato de isopropilo",
-    "nomenclatura stock"   : "--------",
-    "nomenclatura IUPAC"   : "Etanoato de isopropilo",
-    "usos"                 : "Solvente, perfumes, saborizante, tintes de impresión, lacas de nitrocelulosa.",
-    "ficha de seguridad"   : "Tos, dolor de garganta, dolor de cabeza, somnolencia",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "Acetato de isopropilo",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Etanoato de isopropilo",
+    "usos"                   : "Solvente, perfumes, saborizante, tintes de impresión, lacas de nitrocelulosa.",
+    "ficha de seguridad"     : "Tos, dolor de garganta, dolor de cabeza, somnolencia",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-1A9C-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyNjk5Mzh8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oMzYvaDcyLzg5ODI1OTg0ODM5OTgucGRmfGRjZmJiMDQyODAwYjlkNTI0ZjhjMDkzY2M5N2QzOThmNGQ5OTc5OTU5ZWNlZTJlYzYyNGRmZjE0MDI3ODNkMzQ",
+    "dato interesante"       : ""
 }

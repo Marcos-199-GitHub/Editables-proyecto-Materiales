@@ -1,0 +1,35 @@
+﻿{
+    "formula_quimica"        : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 5,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 11,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Nitrogeno",
+            "simbolo"  : "N",
+            "cantidad" : 1,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica"   : "--------",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Pentanamida",
+    "usos"                   : "Se usa en la síntesis de pendimethalin, compuesto utilizado como herbicida.",
+    "ficha de seguridad"     : "",
+    "url_ficha_de_seguridad" : "https://pubchem.ncbi.nlm.nih.gov/compound/12298#section=Safety-and-Hazards",
+    "dato interesante"       : ""
+}

@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -13,10 +13,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura_clasica" : "--------",
-    "nomenclatura_stock"   : "--------",
-    "nomenclatura_IUPAC"   : "Butano",
-    "usos"                 : "Combustible en el hogar, Calentamiento de aguas, Quemador de gas.",
-    "ficha_de_seguridad"   : "Puede ocasionar cefalea, vértigo y náuseas, por inhalación. En contacto con la piel, puede ocasionar irritación leve y conjuntivitis leve, inflamación de párpados y lagrimeo en contacto ocular.",
-    "dato_interesante"     : ""
+    "nomenclatura_clasica"   : "--------",
+    "nomenclatura_stock"     : "--------",
+    "nomenclatura_IUPAC"     : "Butano",
+    "usos"                   : "Combustible en el hogar, Calentamiento de aguas, Quemador de gas.",
+    "ficha_de_seguridad"     : "Puede ocasionar cefalea, vértigo y náuseas, por inhalación. En contacto con la piel, puede ocasionar irritación leve y conjuntivitis leve, inflamación de párpados y lagrimeo en contacto ocular.",
+    "url_ficha_de_seguridad" : "https://www.pemex.com/comercializacion/productos/HDS/gas/HDS%20PEMEX-TRI-SAC-27%20Butano%20v1.0.pdf",
+    "dato_interesante"       : ""
 }

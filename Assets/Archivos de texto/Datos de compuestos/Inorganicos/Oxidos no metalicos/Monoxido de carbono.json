@@ -1,22 +1,23 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "C",
             "cantidad" : 1,
-            "carga"    :  2
+            "carga"    : 2
         },
         {
-            "etiqueta": "Anion",
+            "etiqueta" : "Anion",
             "simbolo"  : "O",
             "cantidad" : 1,
             "carga"    : -2
         }
     ],
-  "nomenclatura_clasica": "Anhídrido carbonoso",
-  "nomenclatura_stock": "Óxido de carbono (II)",
-  "nomenclatura_IUPAC": "monóxido de carbono",
-  "usos": "Es altamente tóxico y respirarlo puede causar la muerte al sustituir al oxígeno. ",
-  "ficha_de_seguridad": "Es altamente tóxico y respirarlo puede causar la muerte al sustituir al oxígeno. ",
-  "dato_interesante": "Es la causa de envenenamiento más común en USA, ya que este gas es producido por actividades en la cocina y por calefacciones."
+    "nomenclatura_clasica"   : "Anhídrido carbonoso",
+    "nomenclatura_stock"     : "Óxido de carbono (II)",
+    "nomenclatura_IUPAC"     : "monóxido de carbono",
+    "usos"                   : "Es altamente tóxico y respirarlo puede causar la muerte al sustituir al oxígeno. ",
+    "ficha_de_seguridad"     : "Es altamente tóxico y respirarlo puede causar la muerte al sustituir al oxígeno. ",
+    "url_ficha_de_seguridad" : "https://www.linde.mx/-/media/corporate/praxair-mexico/documents/safety-data-sheets/monoxido-de-carbono-hds-p4576i-2006.pdf?rev=2f413e1e4b79438d87178e0217cff8be?rev=2f413e1e4b79438d87178e0217cff8be",
+    "dato_interesante"       : "Es la causa de envenenamiento más común en USA, ya que este gas es producido por actividades en la cocina y por calefacciones."
 }

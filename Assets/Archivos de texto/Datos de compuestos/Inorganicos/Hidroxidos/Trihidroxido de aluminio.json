@@ -1,5 +1,5 @@
 {
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "Al",
@@ -13,10 +13,11 @@
             "carga"    : -1
         }
     ],
-    "nomenclatura_clasica" : "Hidróxido alumínico",
-    "nomenclatura_stock"   : "Hidróxido aluminio (III)",
-    "nomenclatura_IUPAC"   : "Trihidróxido de aluminio",
-    "usos"                 : "Materia prima, soportes catalíticos, compuestos de intercalación, retardante de fuego y medicina.",
-    "ficha_de_seguridad"   : "Estreñimiento, inhibición del fosfato en los intestinos y desórdenes neurológicos.",
-    "dato_interesante"     : "En las décadas de los 60 y 70 se especuló con que el aluminio tenía relación con varias enfermedades neurológicas, incluyendo el alzhéimer"
+    "nomenclatura_clasica"   : "Hidróxido alumínico",
+    "nomenclatura_stock"     : "Hidróxido aluminio (III)",
+    "nomenclatura_IUPAC"     : "Trihidróxido de aluminio",
+    "usos"                   : "Materia prima, soportes catalíticos, compuestos de intercalación, retardante de fuego y medicina.",
+    "ficha_de_seguridad"     : "Estreñimiento, inhibición del fosfato en los intestinos y desórdenes neurológicos.",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-3254-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyMzMxNDh8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oZTgvaDQyLzg5NTA4OTM1NDM0NTQucGRmfGZiNzdkZmY5ZTVmMDdhYmE4MDRlMmU0NTNjNDVmNTc5ZTZlMzEzZjY4OTU0ZWNiNzk4YzliZjRmM2E3ZGI1ODY",
+    "dato_interesante"       : "En las décadas de los 60 y 70 se especuló con que el aluminio tenía relación con varias enfermedades neurológicas, incluyendo el alzhéimer"
 }

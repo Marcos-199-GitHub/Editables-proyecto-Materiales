@@ -1,22 +1,23 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "Al",
             "cantidad" : 2,
-            "carga"    :  3
+            "carga"    : 3
         },
         {
-            "etiqueta": "Oxigeno",
+            "etiqueta" : "Oxigeno",
             "simbolo"  : "O",
             "cantidad" : 3,
             "carga"    : -2
         }
     ],
-  "nomenclatura_clasica": "Óxido alumínico",
-  "nomenclatura_stock": "Óxido de aluminio (II)",
-  "nomenclatura_IUPAC": "Trióxido de dialuminio",
-  "usos": "Se usa como aislante térmico, dispositivo refractario y proporciona dureza a esmaltes y cerámicas.",
-  "ficha_de_seguridad": "Polvo blanco de elevada dureza y resistencia media. Está en la naturaleza de forma de corindón y de esmeril.",
-  "dato_interesante": ""
+    "nomenclatura_clasica"   : "Óxido sódico",
+    "nomenclatura_stock"     : "Óxido de sodio (I)",
+    "nomenclatura_IUPAC"     : "Monóxido de disodio",
+    "usos"                   : "Se usa como aislante térmico, dispositivo refractario y proporciona dureza a esmaltes y cerámicas.",
+    "ficha_de_seguridad"     : "Polvo blanco de elevada dureza y resistencia media. Está en la naturaleza de forma de corindón y de esmeril.",
+    "url_ficha_de_seguridad" : "",
+    "dato_interesante"       : ""
 }

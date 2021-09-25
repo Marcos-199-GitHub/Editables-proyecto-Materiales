@@ -1,28 +1,29 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Hidrógeno",
             "simbolo"  : "H",
             "cantidad" : 2,
-            "carga"    :  1
+            "carga"    : 1
         },
         {
-            "etiqueta": "No metal",
+            "etiqueta" : "No metal",
             "simbolo"  : "S",
             "cantidad" : 1,
             "carga"    : 6
         },
         {
-            "etiqueta": "Oxígeno",
+            "etiqueta" : "Oxígeno",
             "simbolo"  : "O",
             "cantidad" : 4,
             "carga"    : -2
         }
     ],
-  "nomenclatura clasica": "Ácido sulfúrico",
-  "nomenclatura stock": "ácido tetraoxosulfúrico (VI)",
-  "nomenclatura IUPAC": "tetraoxosulfato (VI) de hidrógeno",
-  "usos": "Fertilizante, industria petroquímica, explosivos, detergentes, industria de madera y papel, tratamiento de pieles, baterías e industria química.",
-  "ficha de seguridad": "Es un líquido viscoso, incoloro y corrosivo. Puede causar daño en riñones y pulmones. Peligro de cáncer. Fatal si se inhala. Causa severas irritaciones en los ojos, boca, tracto respiratorio y digestivo. ",
-  "dato interesante": ""
+    "nomenclatura clasica"   : "Ácido sulfúrico",
+    "nomenclatura stock"     : "ácido tetraoxosulfúrico (VI)",
+    "nomenclatura IUPAC"     : "tetraoxosulfato (VI) de hidrógeno",
+    "usos"                   : "Fertilizante, industria petroquímica, explosivos, detergentes, industria de madera y papel, tratamiento de pieles, baterías e industria química.",
+    "ficha de seguridad"     : "Es un líquido viscoso, incoloro y corrosivo. Puede causar daño en riñones y pulmones. Peligro de cáncer. Fatal si se inhala. Causa severas irritaciones en los ojos, boca, tracto respiratorio y digestivo. ",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-4300-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzMjE3NjV8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oMWYvaDgyLzkwNDAxOTA5OTY1MTAucGRmfGI2ODE2NmJmM2RmYTMzMWRjZmRjOWE3YmU5YmZjOGNjY2MxM2QyODU4ZDY5MjgzYjkyM2NhZDUzMmNkMDY3NGI",
+    "dato interesante"       : ""
 }

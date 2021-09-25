@@ -1,28 +1,29 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Hidrógeno",
             "simbolo"  : "H",
             "cantidad" : 2,
-            "carga"    :  1
+            "carga"    : 1
         },
         {
-            "etiqueta": "No metal",
+            "etiqueta" : "No metal",
             "simbolo"  : "C",
             "cantidad" : 1,
             "carga"    : 4
         },
         {
-            "etiqueta": "Oxígeno",
+            "etiqueta" : "Oxígeno",
             "simbolo"  : "O",
             "cantidad" : 3,
             "carga"    : -2
         }
     ],
-  "nomenclatura clasica": "Ácido carbónico",
-  "nomenclatura stock": "Ácido trioxocarbónico (IV)",
-  "nomenclatura IUPAC": "trioxocarbonato (IV) de hidrógeno",
-  "usos": "Es un regulador de pH, está presente en bebidas gaseosas y está presente en la formación de cuevas. ",
-  "ficha de seguridad": "Acido débil e incoloro",
-  "dato interesante": ""
+    "nomenclatura clasica"   : "Ácido carbónico",
+    "nomenclatura stock"     : "Ácido trioxocarbónico (IV)",
+    "nomenclatura IUPAC"     : "trioxocarbonato (IV) de hidrógeno",
+    "usos"                   : "Es un regulador de pH, está presente en bebidas gaseosas y está presente en la formación de cuevas. ",
+    "ficha de seguridad"     : "Acido débil e incoloro",
+    "url_ficha_de_seguridad" : "https://www.fishersci.es/chemicalProductData_uk/wercs?itemCode=11337941&lang=ES",
+    "dato interesante"       : ""
 }

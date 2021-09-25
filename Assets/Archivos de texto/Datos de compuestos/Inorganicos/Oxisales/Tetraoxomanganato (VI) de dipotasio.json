@@ -1,23 +1,23 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "K",
             "cantidad" : 1,
-            "carga"    :  2
+            "carga"    : 2
         },
         {
-            "etiqueta": "Ión",
+            "etiqueta" : "Ión",
             "simbolo"  : "MnO",
             "cantidad" : 4,
             "carga"    : -2
         }
     ],
-  "nomenclatura clasica": "Permanganato de potasio ",
-  "nomenclatura stock": "Gamanato de potacio",
-  "nomenclatura IUPAC": "Tetraoxomanganato (VI) de dipotasio",
-  "usos": "Tratamiento de aguas residuales; en medicina se ocupa como desinfectante bucal.
-    Producto químico de laboratorio Uso analítico y de laboratorio",
-  "ficha de seguridad": "Corrosión cutánea produce una lesión irreversible en la piel, esto es, una necrosis visible a través de la epidermis que alcanza la dermis",
-  "dato interesante": "Este compuesto se utiliza en países productores de cocaína para la purificación de esta."
+    "nomenclatura clasica"   : "Permanganato de potasio",
+    "nomenclatura stock"     : "Gamanato de potacio",
+    "nomenclatura IUPAC"     : "Tetraoxomanganato (VI) de dipotasio",
+    "usos"                   : "Tratamiento de aguas residuales; en medicina se ocupa como desinfectante bucal Producto químico de laboratorio Uso analítico y de laboratorio",
+    "ficha de seguridad"     : "Corrosión cutánea produce una lesión irreversible en la piel, esto es, una necrosis visible a través de la epidermis que alcanza la dermis",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-KK08-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzMDkwNjV8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oYmQvaGQwLzkwMTkzNzU3MTQzMzQucGRmfGIyZmNkYjQzMDlhY2ZhMjgzN2Q4ODZlZWI5OWEwMmIwZDBjMmYzODkyYzcxYWE2ZDRkMzgyNjgwODBiZTQ1ZmM",
+    "dato interesante"       : "Este compuesto se utiliza en países productores de cocaína para la purificación de esta."
 }

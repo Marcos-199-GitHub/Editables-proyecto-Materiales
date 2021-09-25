@@ -1,22 +1,23 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "Na",
             "cantidad" : 1,
-            "carga"    :  1
+            "carga"    : 1
         },
         {
-            "etiqueta": "Anion",
+            "etiqueta" : "Anion",
             "simbolo"  : "H",
             "cantidad" : 1,
             "carga"    : -1
         }
     ],
-  "nomenclatura_clasica": "Hidruro sódico",
-  "nomenclatura_stock": "Hidruro de sodio (I)",
-  "nomenclatura_IUPAC": "Hidruro de sodio",
-  "usos": "Usado en la condensación en reacciones con grupos carbonilo y como agente desecante con solventes inorgánicos. Se utiliza mucho a altas temperaturas como agente reductor.",
-  "ficha_de_seguridad": "Es incoloro en estado puro, insoluble en solventes orgánicos; es inflamable al contacto con el aire y con el agua",
-  "dato_interesante": ""
+    "nomenclatura_clasica"   : "Hidruro sódico",
+    "nomenclatura_stock"     : "Hidruro de sodio (I)",
+    "nomenclatura_IUPAC"     : "Hidruro de sodio",
+    "usos"                   : "Usado en la condensación en reacciones con grupos carbonilo y como agente desecante con solventes inorgánicos. Se utiliza mucho a altas temperaturas como agente reductor.",
+    "ficha_de_seguridad"     : "Es incoloro en estado puro, insoluble en solventes orgánicos; es inflamable al contacto con el aire y con el agua",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-6771-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyNzk0OTd8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oN2MvaDA3Lzg5OTAzOTE2MzE5MDIucGRmfGM5MDkwNWZlY2YxYTg5ZTM4OTBmZDNmYzBlMjM0NmI0ZWI2ZDE4MzAwM2EyNGVmMDQxZWVkMjMzNTQzNWE1NmU",
+    "dato_interesante"       : ""
 }

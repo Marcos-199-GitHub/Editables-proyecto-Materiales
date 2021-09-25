@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -19,10 +19,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura clasica" : "Alcohol metilico",
-    "nomenclatura stock"   : "--------",
-    "nomenclatura IUPAC"   : "Metanol",
-    "usos"                 : "Combustible, tintes y resinas, biocombustible, deshumidificante, solvente industrial, anticongelante en vehículos.",
-    "ficha de seguridad"   : "Provoca daños al sistema nervioso central, órganos visuales, toxicidad sistémica. ",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "Alcohol metilico",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Metanol",
+    "usos"                   : "Combustible, tintes y resinas, biocombustible, deshumidificante, solvente industrial, anticongelante en vehículos.",
+    "ficha de seguridad"     : "Provoca daños al sistema nervioso central, órganos visuales, toxicidad sistémica. ",
+    "url_ficha_de_seguridad" : "https://www.pemex.com/comercializacion/productos/HDS/petroquimicos/METANOL.pdf",
+    "dato interesante"       : ""
 }

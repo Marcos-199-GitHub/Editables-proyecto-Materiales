@@ -1,22 +1,23 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "Fe",
             "cantidad" : 2,
-            "carga"    :  3
+            "carga"    : 3
         },
         {
-            "etiqueta": "Ión",
+            "etiqueta" : "Ión",
             "simbolo"  : "SO",
             "cantidad" : 4,
             "carga"    : -2
         }
     ],
-  "nomenclatura clasica": "Sulfato férrico",
-  "nomenclatura stock": "Sulfato de hierro (III)",
-  "nomenclatura IUPAC": "Tris[tetraoxosulfato] de dihierro",
-  "usos": "Medicina, horticultura, colorante y plantas de tratamiento de aguas.",
-  "ficha de seguridad": "Es un compuesto químico que presenta forma sólida de color amarillenta. Es soluble en agua. Baja toxicidad causar náuseas, vómitos, diarrea y heces de color negro. Use gafas plásticas de seguridad y mascarilla facial.",
-  "dato interesante": ""
+    "nomenclatura clasica"   : "Sulfato férrico",
+    "nomenclatura stock"     : "Sulfato de hierro (III)",
+    "nomenclatura IUPAC"     : "Tris[tetraoxosulfato] de dihierro",
+    "usos"                   : "Medicina, horticultura, colorante y plantas de tratamiento de aguas.",
+    "ficha de seguridad"     : "Es un compuesto químico que presenta forma sólida de color amarillenta. Es soluble en agua. Baja toxicidad causar náuseas, vómitos, diarrea y heces de color negro. Use gafas plásticas de seguridad y mascarilla facial.",
+    "url_ficha_de_seguridad" : "https://borsua.com/wp-content/uploads/2018/05/Hoja-de-seguridad-Sulfato-Ferrico.pdf",
+    "dato interesante"       : ""
 }

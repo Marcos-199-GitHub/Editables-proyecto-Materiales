@@ -1,0 +1,35 @@
+﻿{
+    "formula_quimica"        : [
+        {
+            "etiqueta" : "Carbono",
+            "simbolo"  : "C",
+            "cantidad" : 2,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Hidrogeno",
+            "simbolo"  : "H",
+            "cantidad" : 5,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Nitrogeno",
+            "simbolo"  : "N",
+            "cantidad" : 1,
+            "carga"    : 1
+        },
+        {
+            "etiqueta" : "Oxigeno",
+            "simbolo"  : "O",
+            "cantidad" : 1,
+            "carga"    : 1
+        }
+    ],
+    "nomenclatura clasica"   : "Acetamida",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Etanamida",
+    "usos"                   : "Disolvente, plastificante, aditivo para el papel, industria farmacéutica.",
+    "ficha de seguridad"     : "",
+    "url_ficha_de_seguridad" : "https://www.ilo.org/dyn/icsc/showcard.display?p_lang=es&p_card_id=0233&p_version=2",
+    "dato interesante"       : ""
+}

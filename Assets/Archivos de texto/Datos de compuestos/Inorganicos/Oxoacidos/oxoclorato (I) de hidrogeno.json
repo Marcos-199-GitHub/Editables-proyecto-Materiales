@@ -1,28 +1,29 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Hidrógeno",
             "simbolo"  : "H",
             "cantidad" : 1,
-            "carga"    :  1
+            "carga"    : 1
         },
         {
-            "etiqueta": "No metal",
+            "etiqueta" : "No metal",
             "simbolo"  : "Cl",
             "cantidad" : 1,
             "carga"    : 1
         },
         {
-            "etiqueta": "Oxígeno",
+            "etiqueta" : "Oxígeno",
             "simbolo"  : "O",
             "cantidad" : 1,
             "carga"    : 1
         }
     ],
-  "nomenclatura clasica": "Ácido hipocloroso",
-  "nomenclatura stock": "ácido oxoclórico (I)",
-  "nomenclatura IUPAC": "oxoclorato (I) de hidrógeno",
-  "usos": "Es un gran desinfectante, limpia exposiciones óseas, control de infecciones cutáneas y Cuidado de heridas por quemaduras.",
-  "ficha de seguridad": "Efectos adversos fisicoquímicos, sobre la salud humana y el medio ambiente",
-  "dato interesante": ""
+    "nomenclatura clasica"   : "Ácido hipocloroso",
+    "nomenclatura stock"     : "ácido oxoclórico (I)",
+    "nomenclatura IUPAC"     : "oxoclorato (I) de hidrógeno",
+    "usos"                   : "Es un gran desinfectante, limpia exposiciones óseas, control de infecciones cutáneas y Cuidado de heridas por quemaduras.",
+    "ficha de seguridad"     : "Efectos adversos fisicoquímicos, sobre la salud humana y el medio ambiente",
+    "url_ficha_de_seguridad" : "https://factorchem.com/wp-content/uploads/2021/09/ACIDO-HIPOCLOROSO_S.pdf",
+    "dato interesante"       : ""
 }

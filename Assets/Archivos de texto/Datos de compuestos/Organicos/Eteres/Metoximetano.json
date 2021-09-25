@@ -1,5 +1,5 @@
 ﻿{
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Carbono",
             "simbolo"  : "C",
@@ -19,10 +19,11 @@
             "carga"    : 1
         }
     ],
-    "nomenclatura clasica" : "Dimetiléter",
-    "nomenclatura stock"   : "--------",
-    "nomenclatura IUPAC"   : "Metoximetano",
-    "usos"                 : "Medicina, pulverizadores, combustible de automoción.",
-    "ficha de seguridad"   : "Tos, dolor de garganta, confusión mental, somnolencia, pérdida del conocimiento.",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "Dimetiléter",
+    "nomenclatura stock"     : "--------",
+    "nomenclatura IUPAC"     : "Metoximetano",
+    "usos"                   : "Medicina, pulverizadores, combustible de automoción.",
+    "ficha de seguridad"     : "Tos, dolor de garganta, confusión mental, somnolencia, pérdida del conocimiento.",
+    "url_ficha_de_seguridad" : "https://www.ilo.org/dyn/icsc/showcard.display?p_lang=es&p_card_id=0454&p_version=2",
+    "dato interesante"       : ""
 }

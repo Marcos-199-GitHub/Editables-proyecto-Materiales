@@ -1,5 +1,5 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "Al",
@@ -7,16 +7,17 @@
             "carga"    : 3
         },
         {
-            "etiqueta": "Anion",
+            "etiqueta" : "Anion",
             "simbolo"  : "H",
             "cantidad" : 3,
             "carga"    : -1
         }
     ],
-  "nomenclatura_clasica": "Hidruro alimínico ",
-  "nomenclatura_stock": "Hidruro de aluminio (III)",
-  "nomenclatura_IUPAC": "Trihidruro de aluminio",
-  "usos": "Sirve para almacenar el hidrógeno en vehículos y en la industria de la pirotecnia",
-  "ficha_de_seguridad": "Al contacto con la piel irrita y quema, en caso de aspirarse irrita la nariz, garganta y pulmones.",
-  "dato_interesante": ""
+    "nomenclatura_clasica"   : "Hidruro alimínico ",
+    "nomenclatura_stock"     : "Hidruro de aluminio (III)",
+    "nomenclatura_IUPAC"     : "Trihidruro de aluminio",
+    "usos"                   : "Sirve para almacenar el hidrógeno en vehículos y en la industria de la pirotecnia",
+    "ficha_de_seguridad"     : "Al contacto con la piel irrita y quema, en caso de aspirarse irrita la nariz, garganta y pulmones.",
+    "url_ficha_de_seguridad" : "https://www.chemos.de/import/data/msds/ES_es/16853-85-3-A0009249-ES-es.pdf",
+    "dato_interesante"       : ""
 }

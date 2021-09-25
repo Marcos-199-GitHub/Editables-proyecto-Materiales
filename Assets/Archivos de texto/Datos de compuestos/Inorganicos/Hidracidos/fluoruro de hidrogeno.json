@@ -1,5 +1,5 @@
 {
-    "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Hidrógeno",
             "simbolo"  : "H",
@@ -13,10 +13,11 @@
             "carga"    : -1
         }
     ],
-    "nomenclatura clasica" : "ácido fluorhídrico",
-    "nomenclatura stock"   : "fluoruro de hidrógeno",
-    "nomenclatura IUPAC"   : "fluoruro de hidrógeno",
-    "usos"                 : "Aerosoles, solventes, fluorocarbonos y refrigerantes.",
-    "ficha de seguridad"   : "genera gases muy fuertes y es fácilmente disoluble en agua en sus diversos estados, ya sea gas o líquido.",
-    "dato interesante"     : ""
+    "nomenclatura clasica"   : "ácido fluorhídrico",
+    "nomenclatura stock"     : "fluoruro de hidrógeno",
+    "nomenclatura IUPAC"     : "fluoruro de hidrógeno",
+    "usos"                   : "Aerosoles, solventes, fluorocarbonos y refrigerantes.",
+    "ficha de seguridad"     : "genera gases muy fuertes y es fácilmente disoluble en agua en sus diversos estados, ya sea gas o líquido.",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-HN54-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzMjgyODV8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oMWMvaDE5Lzg5OTYxMjE3MzkyOTQucGRmfDY5MzU1ODg3NmY4MmNjOWVhOWMzYTcxNGEzMzM0MjZkNmI1MGFmYWE5YmIzNmNjNTA3MzAwOTlkOWJhYjFjYmE",
+    "dato interesante"       : ""
 }

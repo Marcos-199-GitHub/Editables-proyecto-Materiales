@@ -1,22 +1,23 @@
 {
-  "formula_quimica"      : [
+    "formula_quimica"        : [
         {
             "etiqueta" : "Metal",
             "simbolo"  : "Na",
             "cantidad" : 2,
-            "carga"    :  1
+            "carga"    : 1
         },
         {
-            "etiqueta": "Ión",
+            "etiqueta" : "Ión",
             "simbolo"  : "SO",
             "cantidad" : 4,
             "carga"    : -2
         }
     ],
-  "nomenclatura clasica": "Sulfato sódico",
-  "nomenclatura stock": "Sulfato de sodio (II)",
-  "nomenclatura IUPAC": "Tetraoxosulfato (IV) de sodio",
-  "usos": "Industria del papel, elaboración de vidrios, manufactura de productos químicos y fabricación de detergentes en polvo.",
-  "ficha de seguridad": "sustancia química de forma cristalina que presenta buena solubilidad en agua. Protección personal: respirador con filtro para partículas adaptado a la concentración de la sustancia en aire.",
-  "dato interesante": ""
+    "nomenclatura clasica"   : "Sulfato sódico",
+    "nomenclatura stock"     : "Sulfato de sodio (II)",
+    "nomenclatura IUPAC"     : "Tetraoxosulfato (IV) de sodio",
+    "usos"                   : "Industria del papel, elaboración de vidrios, manufactura de productos químicos y fabricación de detergentes en polvo.",
+    "ficha de seguridad"     : "sustancia química de forma cristalina que presenta buena solubilidad en agua. Protección personal: respirador con filtro para partículas adaptado a la concentración de la sustancia en aire.",
+    "url_ficha_de_seguridad" : "https://www.carlroth.com/medias/SDB-8631-ES-ES.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyMzkxODV8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oMDQvaDFlLzg5NTA5MTkxMzUyNjIucGRmfDY4ZDQyODQ1NmVhZTdhNTdmYzdlNWRlZjlhMzUzYmY1NDlhZjc2MTUzNTk3ZmIxYTZhYjlkMmRhNDE4MTZlNmY",
+    "dato interesante"       : ""
 }
